@@ -1,0 +1,763 @@
+Rainfall,Humidity,Temperature,N,P,K,pH,Soil_Type,State,District,Season,Irrigation_Type,Water_Source,Variety,Land_Type,Fertilizer_Type,Previous_Crop,Crop_Duration,Sowing_Month,Harvest_Month,Crop_Name
+1257.0,87.2,27.4,82.3,33.0,43.8,5.83,Loamy,Assam,Nagaon,Kharif,Borewell,River,RIC102 Pusa Basmati,Plain,NPK,Mustard,111.0,July,November,Rice
+1426.0,81.5,25.9,74.6,48.4,34.2,5.73,Loamy,Uttar Pradesh,NA,NA,Borewell,Groundwater,RIC103 IR64,Plain,Mixed,Pulses,112.0,June,October,Rice
+1091.0,90.9,NA,NA,39.1,32.9,6.71,Loamy,Uttar Pradesh,NA,Kharif,Rainfed,Canal,RIC101 Swarna,Plain,Mixed,Fallow,123.0,June,November,Rice
+2058.0,79.4,23.9,88.4,30.9,55.3,6.12,Clay,Punjab,Amritsar,Kharif,NA,Canal,RIC102 Pusa Basmati,Lowland,Mixed,Pulses,123.0,June,November,Rice
+1455.0,78.6,NA,101.4,NA,38.4,6.36,Alluvial,West Bengal,NA,Kharif,Canal,Rainwater,RIC101 Swarna,Lowland,Urea,Fallow,118.0,July,October,Rice
+1008.0,87.9,28.4,96.5,53.1,32.2,5.9,Alluvial,Assam,Jorhat,NA,Rainfed,River,RIC104 MTU-7029,Plain,NPK,Wheat,NA,July,November,Rice
+1828.0,76.0,NA,79.1,59.2,55.5,6.8,Loamy,Uttar Pradesh,Barabanki,Kharif,Rainfed,Groundwater,RIC103 IR64,Lowland,Urea,Fallow,124.0,NA,November,Rice
+1282.0,NA,26.3,88.2,50.9,34.2,6.51,Loamy,Assam,Nagaon,Kharif,Rainfed,River,RIC104 MTU-7029,Lowland,Mixed,Fallow,131.0,July,November,Rice
+1414.0,72.3,26.1,NA,42.5,56.5,5.81,Loamy,Punjab,Ludhiana,Kharif,Canal,Rainwater,RIC102 Pusa Basmati,Lowland,NA,Wheat,136.0,July,NA,Rice
+2205.0,70.2,26.6,80.9,36.7,33.6,5.84,Loamy,NA,Nagaon,Kharif,Rainfed,Groundwater,RIC104 MTU-7029,Plain,Urea,Pulses,121.0,July,October,Rice
+1421.0,NA,22.3,90.5,NA,31.5,5.7,Alluvial,NA,Ludhiana,Kharif,Canal,Rainwater,RIC102 Pusa Basmati,Plain,Urea,Pulses,135.0,July,November,Rice
+2066.0,75.2,28.6,78.4,49.0,49.0,6.34,Alluvial,Assam,Nagaon,Kharif,Canal,Canal,RIC103 IR64,Plain,Urea,Fallow,129.0,July,October,Rice
+1996.0,87.8,25.1,64.8,58.2,41.9,6.29,Alluvial,NA,Nagaon,Kharif,Rainfed,Canal,RIC101 Swarna,Lowland,NPK,Fallow,140.0,July,November,Rice
+1924.0,NA,27.0,86.5,37.3,32.8,7.24,Alluvial,Odisha,Cuttack,Kharif,NA,Rainwater,RIC101 Swarna,Lowland,Mixed,Fallow,NA,June,November,Rice
+2310.0,NA,NA,89.0,NA,58.2,7.43,Clay,West Bengal,Nadia,Kharif,Borewell,Groundwater,RIC102 Pusa Basmati,Plain,Mixed,Pulses,150.0,July,October,Rice
+1691.0,73.9,25.3,97.2,51.6,39.2,6.36,Loamy,Assam,Nagaon,Kharif,NA,Groundwater,RIC103 IR64,Plain,NPK,Mustard,147.0,July,October,Rice
+2269.0,79.6,NA,92.3,50.1,55.9,NA,Loamy,Odisha,Balasore,Kharif,Rainfed,Canal,RIC101 Swarna,Plain,Urea,NA,137.0,July,NA,Rice
+1518.0,70.3,30.4,81.4,59.0,58.9,7.13,Loamy,Uttar Pradesh,Siddharthnagar,Kharif,Canal,River,NA,Lowland,Urea,Pulses,112.0,July,November,Rice
+2311.0,85.3,27.1,64.9,48.5,59.7,5.35,Loamy,West Bengal,Bardhaman,Kharif,Borewell,Groundwater,RIC102 Pusa Basmati,Lowland,Urea,Wheat,148.0,NA,November,Rice
+1359.0,83.5,22.7,60.3,48.8,35.8,NA,Clay,Punjab,Ludhiana,Kharif,Borewell,Canal,RIC103 IR64,Lowland,Mixed,Pulses,143.0,July,November,Rice
+1217.0,91.6,29.6,103.0,37.5,31.2,5.76,Loamy,Odisha,Cuttack,Kharif,Canal,NA,RIC104 MTU-7029,Lowland,Urea,NA,113.0,July,October,Rice
+NA,84.0,28.5,108.8,45.5,39.7,6.99,Loamy,Assam,Jorhat,Kharif,Rainfed,Canal,RIC102 Pusa Basmati,Lowland,NPK,Wheat,135.0,June,November,Rice
+1081.0,90.1,26.0,72.0,32.8,35.5,7.34,Alluvial,West Bengal,Hooghly,Kharif,Canal,Rainwater,RIC104 MTU-7029,Lowland,Urea,Mustard,138.0,June,October,Rice
+1498.0,86.7,22.1,65.8,31.4,31.2,7.14,Alluvial,Assam,Jorhat,Kharif,Borewell,Groundwater,RIC104 MTU-7029,Lowland,Mixed,Pulses,142.0,July,November,Rice
+1067.0,90.9,30.0,73.0,30.5,58.0,6.25,Alluvial,Uttar Pradesh,Barabanki,Kharif,Canal,Canal,RIC104 MTU-7029,Plain,Mixed,Mustard,NA,July,November,Rice
+1806.0,78.5,27.8,NA,46.4,58.2,5.97,Alluvial,Odisha,Balasore,Kharif,NA,Rainwater,RIC104 MTU-7029,Lowland,Urea,NA,140.0,July,November,Rice
+NA,77.4,27.9,79.3,50.4,40.2,5.65,Loamy,Uttar Pradesh,Barabanki,Kharif,Borewell,River,RIC102 Pusa Basmati,NA,Mixed,Wheat,145.0,June,October,Rice
+1767.0,79.3,27.1,88.8,51.9,33.8,5.63,Loamy,Uttar Pradesh,Barabanki,Kharif,Borewell,Canal,RIC101 Swarna,Plain,NA,Fallow,122.0,June,October,Rice
+1529.0,81.8,26.5,79.5,38.9,33.0,5.13,Alluvial,Odisha,Cuttack,Kharif,Canal,Rainwater,RIC104 MTU-7029,Lowland,Mixed,Pulses,123.0,June,November,Rice
+1690.0,71.8,22.8,90.1,46.6,36.4,7.37,Alluvial,Assam,Nagaon,Kharif,Rainfed,River,RIC101 Swarna,Plain,NPK,Fallow,123.0,June,NA,Rice
+2243.0,NA,23.1,67.1,52.8,NA,5.25,Loamy,Uttar Pradesh,Barabanki,Kharif,Borewell,NA,RIC104 MTU-7029,Plain,Urea,Mustard,136.0,July,NA,Rice
+1119.0,91.7,25.4,78.5,54.4,58.4,7.47,Clay,Uttar Pradesh,Barabanki,Kharif,Rainfed,Rainwater,RIC101 Swarna,Plain,NPK,Fallow,136.0,July,November,Rice
+1608.0,75.6,25.6,88.6,NA,53.0,7.06,Loamy,Odisha,Cuttack,Kharif,Canal,Rainwater,RIC101 Swarna,Plain,NPK,NA,134.0,July,October,Rice
+NA,91.5,27.0,76.1,31.3,57.7,7.3,Loamy,Uttar Pradesh,Siddharthnagar,Kharif,Rainfed,Canal,RIC101 Swarna,Plain,Mixed,Wheat,123.0,NA,NA,Rice
+1976.0,78.5,NA,105.8,58.8,31.7,5.99,Alluvial,NA,Hooghly,Kharif,Borewell,Canal,RIC104 MTU-7029,Plain,NPK,Pulses,137.0,July,October,Rice
+1977.0,81.8,24.8,100.7,NA,34.9,7.28,Alluvial,West Bengal,Nadia,Kharif,Borewell,Groundwater,RIC103 IR64,Plain,Urea,Fallow,134.0,July,November,Rice
+1063.0,70.6,25.4,100.5,59.6,34.5,6.49,Loamy,NA,Ludhiana,Kharif,Canal,Groundwater,RIC103 IR64,Lowland,Urea,Wheat,142.0,NA,October,Rice
+1383.0,71.2,29.8,NA,60.0,59.9,6.39,Alluvial,NA,Cuttack,Kharif,Canal,River,RIC102 Pusa Basmati,Plain,Mixed,Wheat,130.0,July,October,Rice
+1385.0,74.6,29.9,97.8,31.4,38.1,5.06,Clay,West Bengal,Nadia,Kharif,Borewell,Groundwater,NA,Lowland,Mixed,Mustard,121.0,June,November,Rice
+1124.0,87.4,27.3,84.0,42.6,NA,6.6,Loamy,Assam,Nagaon,Kharif,Rainfed,NA,RIC102 Pusa Basmati,Plain,NPK,NA,NA,July,November,Rice
+2266.0,77.7,26.6,99.2,41.9,48.7,7.16,Alluvial,NA,Cuttack,Kharif,Canal,Canal,RIC102 Pusa Basmati,Plain,NA,Mustard,126.0,July,November,Rice
+NA,77.6,23.9,89.0,40.2,46.1,6.15,Loamy,Uttar Pradesh,Siddharthnagar,Kharif,Rainfed,Groundwater,RIC104 MTU-7029,NA,Urea,Fallow,141.0,June,October,Rice
+NA,74.2,22.4,68.4,38.4,35.3,5.22,Alluvial,Uttar Pradesh,Siddharthnagar,Kharif,Canal,River,RIC104 MTU-7029,Plain,NPK,Mustard,NA,July,October,Rice
+NA,80.6,28.2,85.6,34.7,41.3,NA,Alluvial,NA,Cuttack,Kharif,Canal,Rainwater,RIC101 Swarna,Plain,Mixed,Fallow,131.0,July,November,Rice
+1744.0,85.9,NA,67.4,34.0,50.6,7.11,Loamy,Assam,Nagaon,Kharif,Rainfed,Canal,NA,Plain,NPK,Mustard,144.0,June,October,Rice
+1528.0,70.4,NA,70.6,NA,33.6,7.23,Alluvial,West Bengal,NA,Kharif,Borewell,Rainwater,RIC101 Swarna,Lowland,NPK,Fallow,145.0,June,November,Rice
+2044.0,79.5,23.1,74.2,40.9,49.4,6.43,Loamy,Punjab,Ludhiana,Kharif,Canal,Groundwater,RIC101 Swarna,Lowland,NA,Wheat,131.0,June,November,Rice
+NA,76.3,NA,104.8,32.4,45.7,6.03,Loamy,Assam,Jorhat,Kharif,Borewell,NA,RIC104 MTU-7029,Plain,Mixed,Pulses,124.0,July,November,Rice
+1239.0,84.7,30.4,NA,47.1,38.4,6.92,Clay,West Bengal,Bardhaman,Kharif,Borewell,Groundwater,RIC104 MTU-7029,Lowland,Urea,Pulses,121.0,June,October,Rice
+1404.0,82.8,23.4,84.1,NA,31.6,5.84,Clay,Punjab,Amritsar,Kharif,Canal,Rainwater,RIC102 Pusa Basmati,Plain,NPK,Wheat,149.0,July,November,Rice
+1954.0,86.7,27.4,83.6,42.4,40.5,7.32,Clay,West Bengal,Nadia,Kharif,Borewell,Groundwater,RIC101 Swarna,Plain,Mixed,Wheat,143.0,July,October,Rice
+2038.0,82.6,29.6,67.0,53.9,36.0,5.41,Alluvial,Odisha,Cuttack,Kharif,Canal,River,RIC103 IR64,Lowland,NPK,Mustard,113.0,June,October,Rice
+1956.0,79.9,28.4,105.0,48.7,46.2,6.1,Alluvial,Punjab,Ludhiana,Kharif,Canal,River,RIC101 Swarna,Lowland,Mixed,Mustard,123.0,June,November,Rice
+1164.0,90.7,27.6,76.7,34.2,53.8,6.55,Clay,Odisha,Cuttack,Kharif,Rainfed,Rainwater,RIC104 MTU-7029,Lowland,NPK,Wheat,142.0,June,October,Rice
+1200.0,74.5,28.4,84.7,52.6,33.1,6.34,Loamy,Odisha,Cuttack,Kharif,NA,Canal,RIC104 MTU-7029,Plain,Mixed,Wheat,117.0,June,October,Rice
+775.0,45.3,19.0,113.9,60.1,43.0,7.65,Loamy,Madhya Pradesh,Bhopal,Rabi,Borewell,Groundwater,WHT205 PBW-343,Plain,NPK,Soybean,145.0,December,March,Wheat
+672.0,58.7,19.2,81.1,65.5,53.0,7.13,NA,Madhya Pradesh,Bhopal,Rabi,Canal,River,WHT205 PBW-343,Plain,Urea,Cotton,150.0,December,March,Wheat
+407.0,67.7,23.7,87.4,NA,30.0,6.37,Black,Haryana,Karnal,Rabi,Canal,Canal,WHT206 DBW-187,NA,DAP,Soybean,138.0,December,March,Wheat
+380.0,54.1,NA,80.3,46.7,36.9,7.07,Black,Bihar,Muzaffarpur,Rabi,Borewell,Groundwater,WHT206 DBW-187,Plain,DAP,Soybean,121.0,November,March,Wheat
+599.0,48.8,12.6,NA,49.7,52.4,6.72,Black,Haryana,Karnal,Rabi,Sprinkler,Groundwater,WHT205 PBW-343,Plain,DAP,Rice,136.0,November,March,Wheat
+432.0,56.2,11.3,139.8,52.6,42.9,6.13,Black,Madhya Pradesh,Indore,Rabi,Sprinkler,River,WHT207 Lok-1,Plain,NA,Maize,149.0,November,March,Wheat
+610.0,60.3,11.0,126.5,50.9,NA,6.88,Loamy,Bihar,Muzaffarpur,Rabi,Borewell,Groundwater,WHT206 DBW-187,Plain,NPK,NA,120.0,December,March,Wheat
+500.0,69.2,17.9,128.0,69.3,NA,7.73,Alluvial,Haryana,Hisar,NA,Canal,River,WHT206 DBW-187,Plain,NPK,Soybean,150.0,November,April,Wheat
+663.0,69.0,18.4,123.2,63.2,54.7,7.21,Loamy,Uttar Pradesh,Varanasi,Rabi,Sprinkler,Canal,WHT205 PBW-343,Plain,NA,Maize,150.0,November,April,Wheat
+698.0,64.9,22.7,87.4,65.7,44.3,7.41,Alluvial,NA,Patiala,Rabi,NA,Canal,WHT207 Lok-1,Plain,NPK,Maize,150.0,December,March,Wheat
+693.0,56.1,18.3,NA,NA,53.5,7.53,Alluvial,Madhya Pradesh,Bhopal,Rabi,Borewell,Groundwater,WHT207 Lok-1,Plain,NPK,Maize,142.0,December,April,Wheat
+362.0,52.3,18.1,118.0,44.0,NA,7.67,Loamy,NA,Kanpur,Rabi,NA,Canal,WHT204 HD-2967,Plain,DAP,Soybean,124.0,November,April,Wheat
+415.0,60.6,14.1,113.3,57.8,49.9,6.41,Loamy,Punjab,Bathinda,Rabi,Borewell,Canal,WHT206 DBW-187,NA,Urea,Soybean,NA,November,April,Wheat
+698.0,58.3,18.6,130.3,49.2,48.1,6.84,Loamy,Punjab,Bathinda,Rabi,Borewell,River,WHT204 HD-2967,Plain,NPK,Rice,NA,November,April,Wheat
+810.0,56.8,23.7,123.3,56.4,53.5,6.79,Loamy,Bihar,Muzaffarpur,Rabi,Borewell,Canal,WHT207 Lok-1,Plain,Urea,Maize,123.0,November,April,Wheat
+813.0,67.9,24.3,89.3,56.8,39.2,6.69,Alluvial,Haryana,Karnal,Rabi,Canal,Canal,WHT204 HD-2967,Plain,NPK,Cotton,129.0,November,March,Wheat
+393.0,45.1,24.5,80.3,38.6,34.4,7.61,NA,Haryana,Karnal,Rabi,Canal,Canal,WHT205 PBW-343,Plain,Urea,Soybean,136.0,November,April,Wheat
+701.0,65.5,20.9,118.2,69.3,52.1,7.29,Black,Haryana,Hisar,Rabi,Borewell,Canal,WHT204 HD-2967,NA,DAP,Soybean,129.0,December,March,Wheat
+656.0,57.8,NA,87.2,60.6,30.8,6.23,Black,Uttar Pradesh,Varanasi,Rabi,Sprinkler,Canal,NA,Plain,NPK,Maize,139.0,November,March,Wheat
+806.0,46.0,18.9,93.8,39.2,27.3,7.39,Loamy,Punjab,Patiala,Rabi,Sprinkler,River,WHT207 Lok-1,Plain,NPK,Soybean,NA,November,April,Wheat
+525.0,61.9,23.3,117.0,43.2,25.7,7.74,Loamy,Bihar,Gaya,Rabi,Sprinkler,River,WHT204 HD-2967,Plain,Urea,Maize,122.0,November,March,Wheat
+772.0,55.9,17.2,117.7,65.6,54.5,7.54,Alluvial,Madhya Pradesh,Indore,Rabi,Sprinkler,NA,WHT207 Lok-1,Plain,Urea,Rice,149.0,November,March,Wheat
+NA,68.0,20.7,115.3,44.7,52.3,6.09,Black,Bihar,Gaya,Rabi,Canal,Canal,WHT207 Lok-1,Plain,NPK,Maize,NA,November,March,Wheat
+580.0,68.7,24.2,108.0,56.5,30.0,7.98,Black,Haryana,NA,NA,Canal,River,WHT205 PBW-343,Plain,NA,Soybean,132.0,December,April,Wheat
+561.0,46.0,24.4,129.6,63.0,43.9,6.43,Alluvial,Haryana,Hisar,Rabi,Sprinkler,Groundwater,WHT204 HD-2967,Plain,Urea,Soybean,129.0,November,April,Wheat
+898.0,69.2,17.0,117.4,61.2,26.0,7.79,NA,Punjab,Bathinda,Rabi,Borewell,NA,WHT204 HD-2967,Plain,NA,Soybean,147.0,November,March,Wheat
+819.0,46.0,14.9,135.9,NA,33.4,6.51,Loamy,Haryana,Karnal,Rabi,Sprinkler,Canal,WHT207 Lok-1,Plain,DAP,Maize,125.0,November,NA,Wheat
+392.0,68.0,17.4,108.8,55.7,NA,6.7,Loamy,Bihar,Gaya,Rabi,NA,Canal,WHT204 HD-2967,Plain,Urea,Maize,143.0,November,April,Wheat
+NA,49.3,15.0,94.3,67.6,28.2,NA,NA,Madhya Pradesh,Indore,Rabi,Canal,River,WHT204 HD-2967,Plain,DAP,Rice,138.0,November,NA,Wheat
+801.0,51.2,NA,80.1,54.5,47.7,6.52,Loamy,Punjab,Bathinda,Rabi,Canal,Groundwater,WHT206 DBW-187,Plain,Urea,Rice,136.0,December,March,Wheat
+355.0,67.1,11.9,97.0,35.6,38.0,7.68,Black,Punjab,Bathinda,Rabi,Borewell,Canal,WHT204 HD-2967,Plain,DAP,Cotton,NA,December,April,Wheat
+516.0,64.1,11.0,114.9,47.1,43.6,6.09,Loamy,Punjab,Bathinda,Rabi,Borewell,River,WHT204 HD-2967,Plain,NPK,Soybean,139.0,November,April,Wheat
+802.0,55.0,22.3,95.2,35.0,29.8,6.94,NA,Bihar,Muzaffarpur,Rabi,Sprinkler,Canal,WHT204 HD-2967,Plain,NPK,Soybean,142.0,November,March,Wheat
+812.0,65.9,13.5,87.9,65.4,53.9,6.06,Alluvial,Haryana,NA,Rabi,Canal,River,NA,Plain,Urea,Soybean,139.0,December,March,Wheat
+891.0,56.1,23.4,93.8,42.5,25.9,7.3,Loamy,Uttar Pradesh,Meerut,Rabi,Sprinkler,River,WHT207 Lok-1,Plain,DAP,Rice,NA,November,March,Wheat
+642.0,45.5,22.0,97.7,66.9,54.0,6.37,Black,Haryana,Hisar,Rabi,Canal,Groundwater,WHT205 PBW-343,NA,NA,Rice,149.0,December,April,Wheat
+NA,58.3,11.0,114.9,44.4,48.9,6.62,Alluvial,Madhya Pradesh,NA,Rabi,Canal,Canal,WHT205 PBW-343,NA,DAP,Cotton,137.0,December,March,Wheat
+766.0,70.7,23.6,123.5,61.2,29.4,NA,Loamy,Haryana,Karnal,Rabi,Sprinkler,Groundwater,WHT205 PBW-343,NA,Urea,Maize,127.0,December,April,Wheat
+635.0,47.4,15.3,82.0,37.8,36.9,6.27,Black,Madhya Pradesh,Indore,Rabi,Borewell,Groundwater,WHT205 PBW-343,Plain,DAP,Soybean,121.0,December,March,Wheat
+873.0,48.4,23.4,115.7,56.6,43.4,6.6,Loamy,Madhya Pradesh,Indore,NA,Borewell,Groundwater,WHT206 DBW-187,Plain,NPK,NA,126.0,November,April,Wheat
+800.0,57.2,19.7,NA,60.6,NA,6.12,Black,Madhya Pradesh,Bhopal,NA,Canal,Canal,WHT204 HD-2967,Plain,NPK,Maize,138.0,November,April,Wheat
+450.0,66.3,19.9,109.9,54.4,NA,6.46,Alluvial,NA,NA,Rabi,Sprinkler,River,WHT207 Lok-1,Plain,DAP,Soybean,122.0,November,March,Wheat
+604.0,68.4,20.9,124.6,49.9,35.4,6.74,Loamy,Uttar Pradesh,Varanasi,Rabi,Canal,River,WHT207 Lok-1,Plain,Urea,Cotton,145.0,November,April,Wheat
+NA,66.4,19.8,139.5,44.9,35.8,NA,Loamy,Madhya Pradesh,Bhopal,Rabi,Canal,River,WHT204 HD-2967,Plain,NPK,Maize,127.0,NA,April,Wheat
+555.0,58.8,16.2,84.1,50.3,27.9,6.81,Loamy,Punjab,Bathinda,Rabi,Sprinkler,Canal,WHT207 Lok-1,Plain,DAP,NA,125.0,November,March,Wheat
+569.0,68.2,10.1,115.3,56.0,36.9,6.47,Black,Uttar Pradesh,Meerut,Rabi,Sprinkler,NA,WHT206 DBW-187,NA,DAP,Maize,135.0,December,March,Wheat
+806.0,56.6,13.7,117.0,59.7,30.0,6.34,Alluvial,NA,Bathinda,Rabi,Sprinkler,Canal,WHT206 DBW-187,Plain,Urea,Cotton,124.0,November,March,Wheat
+672.0,68.4,13.1,86.7,44.4,26.7,7.06,Loamy,Madhya Pradesh,Bhopal,Rabi,Canal,Canal,WHT206 DBW-187,Plain,NPK,Maize,124.0,NA,March,Wheat
+629.0,46.1,12.2,NA,68.8,NA,7.9,Loamy,Bihar,Muzaffarpur,Rabi,Canal,Canal,WHT206 DBW-187,Plain,NPK,Cotton,134.0,November,April,Wheat
+427.0,45.8,14.6,122.3,42.1,45.2,7.94,Alluvial,Madhya Pradesh,Bhopal,Rabi,Sprinkler,Canal,WHT207 Lok-1,Plain,DAP,Rice,134.0,December,March,Wheat
+811.0,70.5,20.2,109.8,56.6,51.1,7.14,Black,Punjab,Patiala,Rabi,Canal,Groundwater,WHT207 Lok-1,Plain,Urea,Rice,138.0,November,NA,Wheat
+708.0,47.9,19.9,140.0,36.7,54.3,6.81,Alluvial,Bihar,NA,Rabi,Canal,Canal,WHT204 HD-2967,Plain,NPK,Rice,130.0,December,April,Wheat
+530.0,63.0,22.1,125.7,62.9,38.1,7.64,Loamy,Bihar,Gaya,Rabi,Borewell,River,WHT204 HD-2967,Plain,Urea,Soybean,120.0,December,April,Wheat
+564.0,57.1,13.6,102.4,43.0,27.2,7.21,Loamy,Bihar,Muzaffarpur,Rabi,Borewell,Groundwater,WHT205 PBW-343,Plain,DAP,Rice,122.0,November,April,Wheat
+853.0,67.0,11.6,88.9,53.4,32.4,6.95,Black,Punjab,Bathinda,Rabi,Sprinkler,Groundwater,WHT205 PBW-343,Plain,DAP,Cotton,146.0,November,March,Wheat
+802.0,76.9,20.9,127.3,57.9,41.4,NA,Alluvial,Andhra Pradesh,Guntur,Kharif,Sprinkler,Canal,MAI302 Pioneer-3396,Plain,NPK,Soybean,105.0,June,October,Maize
+1062.0,66.2,23.7,106.6,NA,38.2,6.33,Alluvial,Madhya Pradesh,Ujjain,Kharif,NA,NA,NA,Upland,Urea,Fallow,102.0,June,September,Maize
+630.0,77.5,25.1,75.2,63.6,41.2,6.55,Loamy,Karnataka,Mysuru,Kharif,Borewell,Rainwater,MAI303 DKC-9108,Plain,Urea,Wheat,111.0,July,September,Maize
+953.0,55.2,24.3,124.4,61.9,46.7,6.01,Black,Bihar,Samastipur,Kharif,Sprinkler,Canal,MAI304 HQPM-1,Plain,Mixed,Chickpea,114.0,July,September,Maize
+816.0,67.6,22.0,NA,65.2,36.5,5.69,Black,NA,Pune,Kharif,Rainfed,Canal,MAI303 DKC-9108,Plain,Mixed,Soybean,NA,July,September,Maize
+541.0,54.3,23.3,NA,NA,43.3,6.39,Alluvial,Andhra Pradesh,Guntur,Kharif,Rainfed,Canal,MAI303 DKC-9108,Plain,Urea,Fallow,93.0,July,October,Maize
+NA,NA,21.0,123.7,41.7,39.7,5.95,Alluvial,Bihar,NA,Kharif,Borewell,Rainwater,MAI301 DHM-117,Plain,Urea,Soybean,94.0,July,September,Maize
+1116.0,69.5,26.4,89.5,46.7,50.1,7.49,Red,Andhra Pradesh,Kurnool,Kharif,Sprinkler,Rainwater,MAI303 DKC-9108,Plain,Mixed,Chickpea,109.0,July,October,Maize
+1170.0,55.3,28.3,NA,NA,32.9,6.4,Black,Maharashtra,Pune,Kharif,Rainfed,Canal,MAI304 HQPM-1,Plain,NPK,Fallow,117.0,June,October,Maize
+1149.0,66.2,30.1,101.3,56.8,32.7,7.01,Alluvial,Andhra Pradesh,Kurnool,Kharif,Rainfed,Groundwater,MAI304 HQPM-1,Plain,NPK,Chickpea,93.0,June,September,Maize
+752.0,52.6,31.2,103.2,45.7,41.9,6.39,Black,Bihar,Samastipur,Kharif,Sprinkler,Canal,MAI302 Pioneer-3396,Upland,Urea,Fallow,104.0,July,October,Maize
+646.0,77.9,21.4,119.0,48.3,56.3,7.24,Red,Andhra Pradesh,Kurnool,Kharif,Borewell,Canal,MAI304 HQPM-1,Plain,NPK,Fallow,110.0,June,October,Maize
+657.0,78.7,26.9,126.0,55.1,44.4,6.13,Loamy,Madhya Pradesh,Sagar,Kharif,NA,Rainwater,MAI302 Pioneer-3396,Plain,Urea,Chickpea,118.0,July,September,Maize
+1078.0,70.0,21.5,98.7,52.7,37.0,5.66,Black,Madhya Pradesh,Ujjain,Kharif,Rainfed,Canal,MAI302 Pioneer-3396,Plain,Urea,Wheat,117.0,June,October,Maize
+934.0,69.5,21.8,73.7,62.3,43.8,5.62,Loamy,Andhra Pradesh,Guntur,Kharif,Sprinkler,Rainwater,MAI303 DKC-9108,Plain,Mixed,Wheat,112.0,June,September,Maize
+585.0,59.1,21.2,111.5,37.2,45.3,7.49,NA,Madhya Pradesh,Ujjain,Kharif,Rainfed,Canal,MAI304 HQPM-1,Plain,NPK,Soybean,93.0,NA,October,Maize
+1054.0,62.1,27.8,91.3,53.4,44.4,5.85,Alluvial,Bihar,Samastipur,Kharif,NA,Rainwater,MAI302 Pioneer-3396,Upland,Urea,Chickpea,116.0,June,October,Maize
+977.0,55.7,NA,89.4,64.2,48.9,5.9,Alluvial,Andhra Pradesh,Kurnool,Kharif,Rainfed,Rainwater,MAI303 DKC-9108,Upland,Mixed,Fallow,110.0,NA,October,Maize
+589.0,75.9,NA,109.1,63.4,48.4,7.22,Red,Andhra Pradesh,Kurnool,Kharif,Rainfed,Groundwater,MAI301 DHM-117,Upland,NPK,Soybean,NA,July,September,Maize
+1066.0,52.3,23.4,125.8,43.9,53.4,7.15,Loamy,Karnataka,Belagavi,Kharif,Sprinkler,Canal,MAI302 Pioneer-3396,NA,NPK,Fallow,106.0,July,September,Maize
+574.0,79.6,25.3,72.9,36.3,52.4,6.82,Loamy,Andhra Pradesh,Guntur,Kharif,Borewell,Rainwater,MAI301 DHM-117,Plain,NPK,Soybean,115.0,June,October,Maize
+1180.0,78.3,29.4,91.3,49.4,46.5,7.16,Black,Maharashtra,Nashik,Kharif,Sprinkler,Groundwater,MAI303 DKC-9108,Plain,NPK,Fallow,97.0,July,October,Maize
+767.0,56.2,21.5,106.9,62.1,49.3,6.56,Red,Karnataka,Belagavi,Kharif,Borewell,Groundwater,MAI302 Pioneer-3396,Upland,Mixed,Soybean,91.0,July,September,Maize
+1024.0,74.4,27.9,77.7,46.8,57.8,5.95,Alluvial,Andhra Pradesh,Kurnool,Kharif,Borewell,Groundwater,MAI304 HQPM-1,Plain,NPK,Chickpea,111.0,July,NA,Maize
+973.0,64.9,20.2,129.5,58.5,39.5,7.26,NA,Maharashtra,Nashik,NA,NA,Canal,MAI302 Pioneer-3396,Upland,NPK,Chickpea,110.0,July,October,Maize
+624.0,66.4,31.8,126.2,36.5,34.9,5.76,Loamy,Maharashtra,Pune,Kharif,Borewell,Groundwater,NA,Upland,Mixed,Fallow,113.0,July,September,Maize
+913.0,65.3,23.6,103.9,59.1,56.2,6.77,Black,Madhya Pradesh,Ujjain,Kharif,Rainfed,Canal,MAI304 HQPM-1,Plain,Urea,Soybean,97.0,June,October,Maize
+1194.0,53.0,24.8,118.0,42.1,46.7,6.97,Loamy,NA,Guntur,Kharif,Borewell,Canal,MAI302 Pioneer-3396,Upland,NPK,Wheat,109.0,July,October,Maize
+1088.0,75.0,20.1,115.0,61.6,50.4,NA,Loamy,Bihar,Purnia,Kharif,Borewell,Groundwater,MAI304 HQPM-1,Upland,NPK,Chickpea,93.0,June,September,Maize
+1046.0,56.5,21.7,109.8,35.1,35.4,5.56,Red,Maharashtra,Pune,Kharif,Rainfed,Rainwater,MAI304 HQPM-1,Upland,Mixed,Fallow,93.0,June,October,Maize
+573.0,56.8,28.4,73.2,NA,48.0,6.7,Black,Madhya Pradesh,Sagar,Kharif,Borewell,Rainwater,MAI303 DKC-9108,Plain,Mixed,Chickpea,113.0,June,October,Maize
+647.0,74.8,NA,92.4,39.3,52.1,5.97,Loamy,Bihar,Purnia,Kharif,Rainfed,Canal,MAI304 HQPM-1,Upland,Mixed,Fallow,NA,July,October,Maize
+NA,69.1,29.4,77.1,49.3,55.2,6.27,Alluvial,Andhra Pradesh,Guntur,Kharif,Sprinkler,Rainwater,MAI301 DHM-117,Plain,NPK,Chickpea,107.0,June,September,Maize
+910.0,67.6,28.4,125.8,62.4,31.7,7.21,NA,Madhya Pradesh,Ujjain,Kharif,Borewell,Rainwater,MAI301 DHM-117,NA,NPK,Soybean,106.0,June,October,Maize
+593.0,52.4,28.7,99.8,50.3,51.9,7.03,Red,Andhra Pradesh,NA,Kharif,Sprinkler,Rainwater,MAI303 DKC-9108,Plain,NPK,Soybean,110.0,July,October,Maize
+698.0,57.9,23.0,124.4,43.7,38.2,7.02,Red,Maharashtra,Pune,Kharif,Rainfed,Rainwater,NA,Plain,NPK,Wheat,93.0,July,September,Maize
+1135.0,54.2,NA,94.7,47.2,57.0,5.54,Black,Maharashtra,Pune,Kharif,Borewell,Canal,MAI304 HQPM-1,Upland,NPK,Chickpea,115.0,July,October,Maize
+1187.0,57.7,27.9,81.9,NA,43.9,7.44,Black,NA,Belagavi,Kharif,Rainfed,Rainwater,MAI301 DHM-117,Upland,Urea,Wheat,93.0,June,October,Maize
+979.0,66.4,31.8,83.6,49.1,46.3,7.08,Alluvial,Karnataka,Belagavi,Kharif,Rainfed,Groundwater,MAI302 Pioneer-3396,Plain,Urea,Chickpea,90.0,July,September,Maize
+965.0,56.5,21.2,121.7,51.1,52.5,6.08,Loamy,Andhra Pradesh,Kurnool,Kharif,Sprinkler,Canal,MAI302 Pioneer-3396,Upland,Mixed,Fallow,106.0,July,October,Maize
+881.0,72.8,29.0,71.1,39.4,49.8,5.82,Red,Andhra Pradesh,Kurnool,Kharif,Borewell,Rainwater,MAI301 DHM-117,Plain,Urea,Soybean,115.0,June,September,Maize
+566.0,60.3,23.4,93.4,NA,41.2,6.4,Loamy,Bihar,Samastipur,Kharif,NA,Canal,MAI303 DKC-9108,Upland,NA,Fallow,113.0,July,October,Maize
+1030.0,NA,NA,108.6,41.9,56.9,6.54,Black,NA,Pune,Kharif,Sprinkler,Groundwater,MAI303 DKC-9108,Plain,Mixed,Wheat,92.0,June,October,Maize
+855.0,NA,20.4,91.8,60.6,54.6,6.13,Red,Madhya Pradesh,Sagar,Kharif,Sprinkler,Groundwater,MAI302 Pioneer-3396,Upland,NA,Soybean,100.0,July,September,Maize
+840.0,53.7,28.7,NA,69.9,59.4,6.81,Black,Karnataka,Belagavi,Kharif,Borewell,Rainwater,MAI301 DHM-117,Upland,NPK,Soybean,114.0,July,October,Maize
+NA,79.2,24.0,87.8,67.1,33.3,7.02,Alluvial,NA,Purnia,Kharif,Borewell,Groundwater,MAI303 DKC-9108,Plain,NPK,Wheat,113.0,July,October,Maize
+NA,55.2,NA,119.6,38.5,37.2,5.78,Alluvial,Madhya Pradesh,Sagar,Kharif,Borewell,Canal,MAI302 Pioneer-3396,Plain,NA,Wheat,112.0,July,NA,Maize
+1064.0,75.3,23.0,71.9,60.9,33.2,6.13,Black,Karnataka,Belagavi,Kharif,Borewell,Canal,MAI302 Pioneer-3396,Upland,NPK,Soybean,112.0,June,October,Maize
+1106.0,56.5,24.3,74.1,61.7,42.2,7.02,Black,Madhya Pradesh,NA,Kharif,Rainfed,Canal,NA,Upland,NPK,Fallow,107.0,June,NA,Maize
+892.0,53.3,25.4,97.6,65.3,46.4,6.26,Red,Madhya Pradesh,Ujjain,Kharif,Borewell,Groundwater,MAI303 DKC-9108,Plain,NPK,Wheat,97.0,July,October,Maize
+696.0,75.8,23.5,124.6,61.4,54.1,5.54,Loamy,NA,Purnia,Kharif,Sprinkler,NA,MAI301 DHM-117,Upland,Mixed,Wheat,117.0,June,September,Maize
+653.0,53.6,20.8,85.8,36.6,47.0,6.07,Red,Maharashtra,Pune,Kharif,Borewell,Rainwater,MAI303 DKC-9108,Upland,Mixed,Chickpea,119.0,June,October,Maize
+1026.0,71.3,27.6,NA,64.6,51.9,7.17,Alluvial,Telangana,Warangal,Kharif,Drip,Canal,COT308 Anjali,Plain,DAP,Fallow,170.0,NA,October,Cotton
+999.0,63.0,NA,76.6,61.8,53.4,7.82,NA,Punjab,Mansa,Kharif,Drip,River,COT307 Suraj,Plain,Urea,Chickpea,164.0,May,October,Cotton
+766.0,63.2,30.9,111.4,54.6,38.3,7.13,Alluvial,Maharashtra,Aurangabad,Kharif,NA,River,COT306 BG-II,Plain,Urea,Chickpea,183.0,May,October,Cotton
+661.0,57.2,33.8,70.2,31.4,51.1,8.0,Red,Gujarat,Rajkot,Kharif,Canal,Groundwater,COT305 Bt Cotton,Plain,NPK,Wheat,184.0,June,December,Cotton
+668.0,51.2,29.7,70.4,30.3,37.7,6.08,Black,Telangana,Warangal,Kharif,Canal,River,COT305 Bt Cotton,Plain,NPK,Wheat,190.0,May,December,Cotton
+870.0,48.4,27.8,105.5,60.6,47.3,7.54,Red,NA,Bathinda,Kharif,Borewell,Groundwater,COT307 Suraj,Plain,Urea,Wheat,150.0,June,December,Cotton
+1029.0,65.1,26.8,117.2,40.4,55.1,8.1,Black,Telangana,Warangal,NA,Drip,River,COT306 BG-II,Plain,DAP,Soybean,172.0,May,October,Cotton
+654.0,65.0,NA,NA,33.2,50.9,7.21,Black,Andhra Pradesh,Kurnool,Kharif,Drip,Canal,COT307 Suraj,Plain,DAP,Wheat,188.0,June,October,Cotton
+888.0,71.6,30.6,105.2,34.9,NA,6.34,Red,Punjab,Bathinda,NA,Canal,River,COT305 Bt Cotton,Plain,Urea,Wheat,187.0,May,December,Cotton
+NA,61.0,28.9,75.9,NA,61.9,7.78,Red,Maharashtra,Nagpur,Kharif,Borewell,Groundwater,COT307 Suraj,Plain,NPK,Soybean,177.0,May,December,Cotton
+742.0,47.3,30.0,130.3,50.7,37.9,6.85,NA,Telangana,NA,Kharif,Borewell,Groundwater,COT307 Suraj,Plain,DAP,Chickpea,160.0,June,December,Cotton
+861.0,66.2,31.6,96.2,35.8,45.1,6.31,Black,NA,NA,Kharif,Drip,River,COT308 Anjali,Plain,DAP,NA,159.0,June,December,Cotton
+704.0,47.2,28.5,91.8,53.7,51.2,6.8,Alluvial,Andhra Pradesh,NA,Kharif,Drip,River,NA,Plain,NPK,Wheat,154.0,June,December,Cotton
+1078.0,56.5,24.4,72.2,43.6,35.6,6.05,Red,NA,Adilabad,NA,Drip,River,COT305 Bt Cotton,Plain,Urea,Soybean,186.0,June,October,Cotton
+725.0,59.2,28.9,139.6,49.1,33.1,NA,Alluvial,Punjab,Mansa,Kharif,Drip,Groundwater,COT308 Anjali,Plain,Urea,Chickpea,154.0,May,October,Cotton
+825.0,67.9,33.2,100.8,40.6,39.1,6.43,Black,Gujarat,Rajkot,NA,Drip,Canal,COT307 Suraj,Plain,NPK,Chickpea,160.0,NA,December,Cotton
+848.0,49.2,28.9,113.8,47.1,44.1,8.19,Alluvial,Telangana,Adilabad,Kharif,NA,Groundwater,COT308 Anjali,Plain,Urea,NA,186.0,May,October,Cotton
+785.0,61.3,26.5,137.5,61.8,55.3,NA,Alluvial,Andhra Pradesh,Guntur,Kharif,Drip,Canal,COT307 Suraj,Plain,DAP,Chickpea,154.0,May,December,Cotton
+1026.0,73.3,25.6,102.4,64.3,46.9,7.9,Red,Andhra Pradesh,Guntur,Kharif,Borewell,Canal,COT308 Anjali,Plain,Urea,Fallow,182.0,June,NA,Cotton
+1051.0,55.9,32.0,132.6,46.0,45.5,7.32,Red,Telangana,Adilabad,Kharif,Borewell,Groundwater,COT307 Suraj,Plain,NA,Wheat,157.0,June,October,Cotton
+1008.0,71.8,24.7,131.8,45.7,47.9,7.38,Red,Gujarat,Rajkot,Kharif,Borewell,Canal,COT308 Anjali,NA,Urea,Wheat,171.0,May,October,Cotton
+880.0,64.3,33.0,93.3,55.7,48.5,7.75,Red,Maharashtra,Aurangabad,NA,Borewell,Canal,COT308 Anjali,Plain,Urea,Wheat,189.0,May,December,Cotton
+705.0,64.0,24.8,70.4,62.8,58.8,NA,Black,Telangana,Adilabad,Kharif,Borewell,Canal,COT307 Suraj,Plain,NA,Wheat,183.0,June,December,Cotton
+515.0,54.2,30.0,114.2,50.2,54.4,6.01,Red,Andhra Pradesh,Kurnool,Kharif,Borewell,Canal,COT308 Anjali,Plain,Urea,Chickpea,166.0,May,December,Cotton
+924.0,46.5,24.8,98.2,40.3,38.1,6.62,NA,Maharashtra,Aurangabad,Kharif,NA,Canal,COT307 Suraj,Plain,DAP,Soybean,178.0,May,October,Cotton
+884.0,74.4,30.6,95.0,52.7,34.3,7.96,NA,Gujarat,Rajkot,Kharif,Canal,Canal,COT306 BG-II,Plain,Urea,Chickpea,169.0,June,NA,Cotton
+641.0,54.1,27.2,109.4,34.2,62.1,7.59,Red,Maharashtra,Aurangabad,NA,Borewell,Canal,COT306 BG-II,Plain,Urea,Chickpea,183.0,May,October,Cotton
+741.0,48.1,26.1,124.8,55.0,50.8,7.97,Alluvial,Gujarat,Bharuch,NA,Drip,NA,COT305 Bt Cotton,Plain,NPK,Chickpea,178.0,June,October,Cotton
+578.0,61.9,33.5,110.0,61.8,63.0,6.93,Alluvial,Gujarat,Rajkot,Kharif,Borewell,Groundwater,COT305 Bt Cotton,Plain,Urea,Fallow,175.0,May,October,Cotton
+1007.0,65.3,25.5,87.8,60.6,36.4,6.61,Red,Andhra Pradesh,Guntur,Kharif,Drip,River,COT305 Bt Cotton,Plain,Urea,Wheat,170.0,June,October,Cotton
+1100.0,48.1,29.5,97.0,60.3,46.7,6.24,Alluvial,Telangana,Warangal,NA,Borewell,Groundwater,COT308 Anjali,Plain,DAP,Wheat,162.0,June,October,Cotton
+1010.0,51.4,NA,103.1,60.8,37.6,7.49,Black,Punjab,Mansa,Kharif,NA,Canal,COT305 Bt Cotton,Plain,DAP,Chickpea,167.0,May,December,Cotton
+NA,66.4,26.2,132.3,40.1,42.9,6.13,Alluvial,Andhra Pradesh,Kurnool,Kharif,Canal,Canal,COT305 Bt Cotton,Plain,NA,Wheat,159.0,June,NA,Cotton
+702.0,45.6,25.4,99.0,47.3,44.2,7.17,Alluvial,Punjab,Mansa,Kharif,Drip,River,COT305 Bt Cotton,Plain,Urea,Chickpea,175.0,NA,October,Cotton
+964.0,68.2,29.7,138.3,34.4,30.6,7.69,Alluvial,Andhra Pradesh,Guntur,Kharif,Drip,Canal,COT305 Bt Cotton,NA,Urea,Fallow,181.0,June,NA,Cotton
+NA,51.7,31.1,109.9,49.9,53.2,7.21,Red,Gujarat,Rajkot,Kharif,Borewell,NA,COT308 Anjali,Plain,DAP,Chickpea,182.0,May,October,Cotton
+591.0,72.0,31.8,135.6,51.1,46.6,6.13,Alluvial,Punjab,Mansa,Kharif,Canal,Groundwater,NA,Plain,NPK,Chickpea,181.0,June,December,Cotton
+837.0,68.3,26.3,120.8,51.7,61.4,7.86,Red,Telangana,Adilabad,Kharif,Drip,River,COT307 Suraj,Plain,NA,Wheat,157.0,June,December,Cotton
+656.0,55.4,34.1,90.3,46.4,61.2,NA,Alluvial,Andhra Pradesh,Guntur,Kharif,Canal,Groundwater,COT306 BG-II,Plain,NA,Chickpea,190.0,May,December,Cotton
+681.0,67.8,27.9,136.4,63.7,51.7,8.04,Alluvial,Gujarat,Bharuch,Kharif,Canal,Canal,COT306 BG-II,Plain,Urea,Wheat,180.0,June,NA,Cotton
+626.0,46.5,NA,138.7,57.8,59.9,6.53,Alluvial,Punjab,NA,Kharif,Drip,NA,COT308 Anjali,Plain,DAP,Soybean,161.0,May,October,Cotton
+856.0,47.2,30.8,NA,36.7,57.7,8.0,Alluvial,Gujarat,Bharuch,Kharif,Drip,River,COT307 Suraj,Plain,NPK,Chickpea,151.0,June,October,Cotton
+786.0,66.5,NA,NA,53.3,35.7,7.24,Alluvial,NA,Mansa,Kharif,Drip,Canal,NA,Plain,NPK,Wheat,159.0,June,October,Cotton
+NA,69.1,24.5,126.6,36.2,48.0,7.78,Alluvial,Andhra Pradesh,Kurnool,Kharif,Drip,River,COT305 Bt Cotton,Plain,NPK,Fallow,162.0,May,December,Cotton
+592.0,74.7,34.5,104.6,47.9,46.9,7.4,Black,Andhra Pradesh,Guntur,Kharif,Canal,River,COT307 Suraj,Plain,NPK,Fallow,176.0,June,December,Cotton
+1095.0,56.6,30.3,99.1,59.7,61.6,7.93,Red,Gujarat,Bharuch,Kharif,Canal,River,COT307 Suraj,Plain,NPK,Wheat,154.0,June,October,Cotton
+1020.0,53.5,34.5,110.7,45.3,50.3,NA,Alluvial,Gujarat,Bharuch,Kharif,Borewell,River,COT305 Bt Cotton,Plain,DAP,Fallow,156.0,June,December,Cotton
+958.0,69.7,33.8,NA,37.2,38.9,6.65,Red,Punjab,Bathinda,Kharif,NA,Canal,COT305 Bt Cotton,Plain,DAP,NA,164.0,NA,October,Cotton
+557.0,69.8,24.5,120.9,57.1,42.3,NA,Alluvial,NA,Rajkot,Kharif,Drip,Groundwater,COT307 Suraj,Plain,NPK,Chickpea,172.0,May,October,Cotton
+819.0,NA,24.7,95.4,55.3,37.0,6.45,Black,Punjab,Mansa,Kharif,Drip,River,COT308 Anjali,Plain,DAP,NA,NA,June,December,Cotton
+1605.0,71.6,31.1,207.1,94.8,99.1,6.46,Loamy,Karnataka,Mandya,Perennial,Canal,Canal,SUG402 Co-86032,Plain,Mixed,NA,338.0,October,January,Sugarcane
+1550.0,NA,22.9,199.9,85.5,60.0,7.41,NA,Gujarat,Navsari,Perennial,Drip,River,SUG404 VSI-4343,Plain,NPK,Wheat,316.0,October,January,Sugarcane
+1686.0,81.3,23.2,196.5,75.4,72.2,7.68,Black,Tamil Nadu,Coimbatore,Perennial,Borewell,Reservoir,SUG403 CoC-24,Plain,Mixed,Wheat,NA,February,December,Sugarcane
+1836.0,69.6,22.4,145.7,57.1,62.8,7.2,Alluvial,Maharashtra,Kolhapur,Perennial,Borewell,Canal,SUG403 CoC-24,Plain,Urea,Soybean,346.0,February,December,Sugarcane
+1319.0,64.6,31.4,220.8,69.2,51.5,7.51,Black,Uttar Pradesh,Meerut,Perennial,Canal,Canal,SUG402 Co-86032,Plain,NPK,Rice,303.0,October,December,Sugarcane
+1677.0,75.0,NA,187.3,65.4,78.9,6.21,Black,Gujarat,Surat,Perennial,Borewell,River,SUG404 VSI-4343,Plain,Mixed,Fallow,319.0,February,January,Sugarcane
+1248.0,82.9,28.0,147.8,65.6,106.1,7.53,Loamy,Tamil Nadu,Coimbatore,Perennial,Borewell,River,SUG402 Co-86032,Plain,Urea,Rice,311.0,October,December,Sugarcane
+1288.0,77.4,26.0,220.6,70.2,54.1,NA,Black,Karnataka,Mandya,Perennial,Canal,Reservoir,NA,Plain,Mixed,Wheat,365.0,October,December,Sugarcane
+1606.0,78.8,29.6,161.9,70.9,95.1,6.18,Alluvial,Tamil Nadu,Coimbatore,Perennial,Canal,River,SUG402 Co-86032,Plain,Urea,Rice,307.0,October,January,Sugarcane
+1097.0,87.2,23.4,184.4,86.9,92.3,6.76,Loamy,Gujarat,Navsari,NA,Drip,Reservoir,SUG403 CoC-24,Plain,Mixed,Fallow,309.0,October,December,Sugarcane
+1594.0,75.4,30.3,155.8,79.8,60.3,7.67,Loamy,Karnataka,Belagavi,NA,Drip,Groundwater,SUG404 VSI-4343,Plain,Mixed,Soybean,365.0,NA,December,Sugarcane
+1962.0,67.0,30.1,217.7,80.5,68.8,6.49,Black,Maharashtra,Solapur,Perennial,Drip,Reservoir,SUG401 Co-0238,Plain,Mixed,Wheat,309.0,February,December,Sugarcane
+1933.0,NA,31.3,208.8,68.7,NA,7.13,Alluvial,Karnataka,Belagavi,Perennial,Borewell,Canal,SUG401 Co-0238,Plain,Mixed,Rice,309.0,October,December,Sugarcane
+1107.0,78.8,33.7,NA,50.4,76.0,NA,Loamy,Gujarat,Navsari,Perennial,Drip,River,SUG401 Co-0238,Plain,Mixed,Fallow,303.0,February,December,Sugarcane
+910.0,76.5,29.4,210.1,62.1,92.8,6.16,Alluvial,Uttar Pradesh,Meerut,Perennial,NA,River,SUG403 CoC-24,Plain,Mixed,Soybean,362.0,February,December,Sugarcane
+1172.0,61.8,27.5,220.6,80.3,90.4,6.15,Loamy,Gujarat,Surat,Perennial,Canal,Groundwater,SUG402 Co-86032,Plain,Mixed,Fallow,335.0,February,December,Sugarcane
+1120.0,77.3,30.9,221.2,76.1,54.1,6.67,Alluvial,Gujarat,Navsari,Perennial,Drip,Groundwater,SUG403 CoC-24,Plain,Urea,Fallow,NA,October,December,Sugarcane
+939.0,82.0,26.9,236.1,81.9,100.0,6.9,Black,Gujarat,Surat,Perennial,Borewell,Canal,SUG403 CoC-24,NA,NA,Wheat,362.0,October,January,Sugarcane
+924.0,68.4,28.0,146.2,74.6,105.6,6.19,Loamy,Karnataka,Belagavi,Perennial,Borewell,Groundwater,SUG402 Co-86032,Plain,NPK,Rice,300.0,NA,January,Sugarcane
+1468.0,82.0,33.3,NA,86.0,99.6,NA,Alluvial,Gujarat,Navsari,Perennial,Drip,Reservoir,NA,Plain,Mixed,NA,322.0,February,December,Sugarcane
+NA,84.4,31.9,163.8,90.5,97.2,7.14,Alluvial,Gujarat,Surat,Perennial,Canal,Groundwater,SUG403 CoC-24,Plain,Urea,Rice,360.0,February,January,Sugarcane
+1453.0,65.4,32.3,214.5,91.9,101.5,7.35,Alluvial,Karnataka,Mandya,Perennial,Borewell,Groundwater,SUG401 Co-0238,Plain,Urea,Fallow,336.0,February,December,Sugarcane
+1438.0,72.0,30.9,234.9,76.6,97.4,6.53,Black,Tamil Nadu,Coimbatore,Perennial,NA,Groundwater,SUG401 Co-0238,Plain,NPK,Fallow,331.0,October,December,Sugarcane
+1598.0,76.3,23.4,163.3,65.6,60.0,6.44,Loamy,Maharashtra,Solapur,Perennial,Borewell,Groundwater,SUG403 CoC-24,Plain,NPK,Soybean,323.0,October,December,Sugarcane
+1357.0,72.0,28.5,216.6,85.1,60.3,6.9,NA,NA,Surat,Perennial,Drip,Groundwater,SUG401 Co-0238,Plain,NPK,Rice,347.0,February,December,Sugarcane
+1029.0,69.4,23.7,216.1,60.3,73.5,7.61,Loamy,Uttar Pradesh,Meerut,Perennial,Canal,Canal,SUG403 CoC-24,Plain,Urea,Rice,361.0,February,December,Sugarcane
+1422.0,75.7,29.5,215.7,62.7,50.6,7.3,Alluvial,Uttar Pradesh,Meerut,NA,Drip,Canal,SUG402 Co-86032,Plain,Urea,Fallow,350.0,October,December,Sugarcane
+1803.0,NA,NA,141.5,70.5,88.9,6.03,Black,Gujarat,Surat,Perennial,Canal,Groundwater,SUG404 VSI-4343,Plain,Mixed,Rice,335.0,February,January,Sugarcane
+1980.0,72.6,28.2,248.8,61.6,106.6,6.08,Loamy,NA,Coimbatore,Perennial,Borewell,River,SUG402 Co-86032,Plain,NPK,Soybean,339.0,February,December,Sugarcane
+1306.0,61.3,26.2,242.2,69.0,99.9,NA,Alluvial,Tamil Nadu,Coimbatore,Perennial,Borewell,Reservoir,SUG402 Co-86032,Plain,Urea,Soybean,347.0,February,January,Sugarcane
+1503.0,74.6,26.2,214.5,87.9,50.9,6.37,Alluvial,Uttar Pradesh,Muzaffarnagar,Perennial,Borewell,River,SUG404 VSI-4343,Plain,Urea,Fallow,305.0,February,January,Sugarcane
+1735.0,76.7,29.8,237.8,78.9,87.9,6.28,Black,Uttar Pradesh,Muzaffarnagar,Perennial,Drip,Canal,SUG403 CoC-24,Plain,NPK,Soybean,NA,October,December,Sugarcane
+1560.0,84.1,32.4,219.7,87.3,83.5,7.05,Black,Uttar Pradesh,Muzaffarnagar,Perennial,Borewell,Groundwater,SUG403 CoC-24,Plain,NPK,Wheat,NA,October,December,Sugarcane
+1723.0,66.3,28.3,230.9,73.2,66.7,NA,Loamy,Karnataka,Belagavi,Perennial,Canal,Groundwater,SUG403 CoC-24,Plain,Urea,Fallow,NA,October,December,Sugarcane
+1669.0,70.3,NA,143.4,63.0,52.0,NA,Loamy,Tamil Nadu,Erode,Perennial,Borewell,Canal,SUG404 VSI-4343,Plain,NPK,Wheat,347.0,October,December,Sugarcane
+1258.0,85.2,34.0,230.8,92.2,64.9,7.04,Black,Karnataka,Belagavi,Perennial,Borewell,Reservoir,SUG404 VSI-4343,Plain,Mixed,Rice,330.0,February,January,Sugarcane
+906.0,73.0,28.9,173.4,65.9,107.7,7.61,Alluvial,NA,Navsari,Perennial,Borewell,Groundwater,SUG403 CoC-24,Plain,NPK,Fallow,347.0,February,December,Sugarcane
+1739.0,61.1,32.0,208.1,78.2,87.5,7.56,Black,Maharashtra,Kolhapur,Perennial,Borewell,NA,SUG404 VSI-4343,NA,Urea,Rice,NA,February,January,Sugarcane
+1328.0,66.4,29.2,242.1,96.5,70.5,6.95,Loamy,Maharashtra,Kolhapur,Perennial,NA,River,NA,Plain,NPK,Soybean,341.0,October,January,Sugarcane
+959.0,72.7,30.1,214.5,68.7,NA,6.3,Alluvial,Uttar Pradesh,NA,Perennial,Borewell,Canal,SUG403 CoC-24,Plain,Mixed,Rice,353.0,October,January,Sugarcane
+1600.0,76.8,24.2,217.6,72.8,90.1,7.51,Black,Karnataka,Mandya,Perennial,Canal,Reservoir,SUG402 Co-86032,Plain,Urea,Fallow,358.0,February,December,Sugarcane
+1783.0,86.9,28.4,193.7,70.1,NA,7.03,Black,Tamil Nadu,Erode,Perennial,Canal,Reservoir,SUG402 Co-86032,Plain,NPK,Fallow,339.0,February,January,Sugarcane
+973.0,66.5,33.0,207.8,62.3,91.4,7.07,Alluvial,Tamil Nadu,Erode,Perennial,Borewell,River,SUG404 VSI-4343,NA,Mixed,Rice,334.0,February,January,Sugarcane
+1660.0,76.9,29.4,NA,88.8,57.7,6.63,Alluvial,Gujarat,Navsari,Perennial,Borewell,Reservoir,SUG401 Co-0238,Plain,Urea,Soybean,341.0,October,December,Sugarcane
+1324.0,62.0,24.5,165.2,73.5,66.1,6.18,Loamy,Karnataka,Belagavi,Perennial,Drip,Reservoir,SUG403 CoC-24,Plain,Urea,Wheat,339.0,October,January,Sugarcane
+1071.0,65.8,29.6,164.2,51.0,99.6,6.66,Alluvial,Tamil Nadu,Erode,Perennial,Drip,Reservoir,SUG404 VSI-4343,Plain,Urea,Wheat,303.0,NA,January,Sugarcane
+1233.0,75.8,31.6,155.1,79.0,80.3,6.26,Loamy,Maharashtra,NA,Perennial,NA,River,NA,Plain,Urea,Fallow,356.0,February,January,Sugarcane
+1300.0,65.3,26.2,200.2,NA,89.9,6.36,Loamy,Gujarat,Navsari,Perennial,Borewell,River,SUG403 CoC-24,Plain,Urea,Rice,331.0,February,January,Sugarcane
+1115.0,73.7,30.9,194.2,74.2,100.3,6.65,Loamy,Tamil Nadu,Erode,Perennial,Canal,Reservoir,SUG403 CoC-24,Plain,Mixed,Soybean,358.0,February,January,Sugarcane
+1947.0,64.9,28.8,203.7,74.5,88.7,6.41,Loamy,Gujarat,Surat,Perennial,NA,Canal,SUG404 VSI-4343,Plain,Mixed,NA,362.0,October,January,Sugarcane
+767.0,60.9,23.8,53.9,45.0,52.8,7.74,Loamy,Karnataka,Belagavi,Kharif,Rainfed,Groundwater,SOY502 JS-95-60,Upland,Organic,Maize,92.0,July,September,Soybean
+NA,70.5,25.4,59.6,35.9,32.6,6.84,Red,Karnataka,Belagavi,Kharif,Borewell,Groundwater,SOY504 NRC-37,Plain,DAP,Fallow,99.0,July,NA,Soybean
+1050.0,59.1,26.6,37.3,38.3,39.6,7.64,Black,Karnataka,Dharwad,Kharif,Borewell,NA,SOY504 NRC-37,Upland,Organic,NA,104.0,June,September,Soybean
+880.0,75.5,23.5,42.1,50.0,42.9,7.8,Loamy,Rajasthan,NA,Kharif,Rainfed,Groundwater,SOY502 JS-95-60,Upland,DAP,Fallow,NA,July,September,Soybean
+988.0,61.1,28.7,41.4,62.1,28.7,7.05,Loamy,Karnataka,Belagavi,Kharif,Rainfed,Rainwater,SOY504 NRC-37,Plain,NPK,Fallow,90.0,July,September,Soybean
+729.0,64.1,26.7,52.1,67.0,30.7,7.64,Black,Rajasthan,Jhalawar,Kharif,Borewell,NA,SOY502 JS-95-60,Upland,Organic,Fallow,96.0,June,September,Soybean
+742.0,73.3,27.7,57.5,48.6,27.0,5.84,Red,Madhya Pradesh,Ujjain,Kharif,Sprinkler,Groundwater,SOY501 JS-335,Plain,Organic,Fallow,100.0,July,September,Soybean
+776.0,56.1,28.4,45.9,57.9,NA,6.39,Loamy,Madhya Pradesh,Ujjain,Kharif,Borewell,Rainwater,SOY503 MACS-450,Upland,NPK,Maize,106.0,June,October,Soybean
+606.0,74.3,29.1,46.8,69.7,34.4,6.48,Red,Maharashtra,Amravati,Kharif,Rainfed,Groundwater,SOY502 JS-95-60,Upland,DAP,Fallow,101.0,July,October,Soybean
+NA,56.7,22.9,30.7,55.8,29.5,NA,NA,Karnataka,Dharwad,Kharif,Borewell,Groundwater,SOY503 MACS-450,Upland,NPK,Maize,99.0,June,October,Soybean
+764.0,59.8,24.9,29.0,68.0,48.5,6.72,Black,NA,NA,Kharif,Rainfed,Groundwater,SOY502 JS-95-60,Plain,NPK,Fallow,107.0,July,October,Soybean
+788.0,73.7,24.7,31.7,41.5,35.3,6.66,Black,Rajasthan,Jhalawar,Kharif,Sprinkler,Rainwater,SOY502 JS-95-60,Plain,DAP,Cotton,95.0,June,September,Soybean
+682.0,74.8,28.3,45.4,48.7,35.7,NA,Red,Maharashtra,Nagpur,Kharif,Borewell,NA,SOY503 MACS-450,Upland,DAP,NA,92.0,July,October,Soybean
+1139.0,NA,25.3,25.4,63.9,49.0,6.01,Black,NA,Jhalawar,NA,Rainfed,Rainwater,SOY501 JS-335,Upland,Organic,Wheat,95.0,June,September,Soybean
+957.0,74.9,22.3,48.1,53.6,28.1,6.15,NA,Madhya Pradesh,Ujjain,NA,Borewell,Groundwater,SOY501 JS-335,Plain,NPK,Cotton,115.0,July,September,Soybean
+1069.0,61.5,23.4,29.0,36.0,40.7,6.24,Black,Rajasthan,Kota,Kharif,Borewell,Rainwater,NA,Plain,Organic,Maize,111.0,NA,September,Soybean
+646.0,79.2,29.9,30.5,36.8,41.7,6.11,Loamy,Rajasthan,Kota,Kharif,Rainfed,Groundwater,SOY502 JS-95-60,Plain,NPK,Fallow,103.0,July,September,Soybean
+946.0,75.6,29.8,34.7,42.1,25.5,7.16,Loamy,Karnataka,Belagavi,Kharif,Rainfed,Rainwater,SOY501 JS-335,Upland,NPK,Fallow,94.0,July,NA,Soybean
+992.0,71.7,25.3,57.5,NA,31.7,6.28,Red,Maharashtra,Nagpur,Kharif,Borewell,NA,SOY503 MACS-450,Plain,Organic,Wheat,92.0,June,October,Soybean
+NA,77.5,30.1,46.4,48.1,NA,6.01,Black,Karnataka,Belagavi,Kharif,Sprinkler,Groundwater,SOY504 NRC-37,NA,DAP,NA,104.0,June,October,Soybean
+694.0,77.3,22.4,39.7,40.9,51.4,6.91,Loamy,Karnataka,Dharwad,Kharif,Borewell,Rainwater,SOY503 MACS-450,Plain,Organic,Wheat,91.0,July,September,Soybean
+1150.0,72.2,28.3,39.1,61.3,40.9,7.15,Black,Karnataka,Dharwad,Kharif,Borewell,Groundwater,SOY502 JS-95-60,Plain,NPK,Wheat,112.0,June,October,Soybean
+1107.0,66.6,25.8,57.0,43.8,50.3,6.77,Black,Maharashtra,Nagpur,Kharif,Rainfed,NA,SOY504 NRC-37,Upland,Organic,Fallow,92.0,July,September,Soybean
+1018.0,63.8,NA,32.4,65.0,49.6,6.68,Black,Rajasthan,Kota,Kharif,Sprinkler,Groundwater,SOY503 MACS-450,Plain,DAP,Fallow,99.0,June,September,Soybean
+996.0,73.6,23.2,57.8,NA,43.7,6.25,Red,Karnataka,Dharwad,Kharif,Borewell,Groundwater,SOY501 JS-335,Upland,NPK,Wheat,NA,July,September,Soybean
+1139.0,57.3,25.9,28.5,NA,44.9,7.0,Loamy,Madhya Pradesh,Indore,Kharif,Sprinkler,Rainwater,SOY503 MACS-450,Plain,DAP,Wheat,111.0,June,September,Soybean
+739.0,78.4,NA,39.7,36.8,26.2,6.95,Loamy,Rajasthan,Kota,Kharif,NA,Rainwater,SOY503 MACS-450,Upland,NPK,Wheat,101.0,June,September,Soybean
+1019.0,64.8,27.7,25.2,37.2,41.1,6.93,Red,Rajasthan,Jhalawar,Kharif,Borewell,Rainwater,SOY503 MACS-450,Upland,NA,Cotton,101.0,June,October,Soybean
+733.0,63.6,24.6,28.1,38.1,30.8,5.9,Red,Rajasthan,Kota,Kharif,Rainfed,Groundwater,SOY503 MACS-450,Upland,NPK,Maize,96.0,June,October,Soybean
+865.0,64.0,NA,43.5,40.6,42.2,7.41,Red,Karnataka,Belagavi,Kharif,Borewell,Groundwater,SOY501 JS-335,Upland,DAP,NA,93.0,July,October,Soybean
+703.0,77.3,27.8,36.8,63.1,32.4,7.75,Loamy,NA,Dharwad,Kharif,Borewell,Groundwater,SOY501 JS-335,Plain,Organic,Fallow,95.0,July,October,Soybean
+1096.0,73.2,30.2,38.9,40.5,47.1,6.52,Loamy,Rajasthan,Kota,Kharif,Rainfed,Groundwater,SOY502 JS-95-60,Plain,NPK,Wheat,99.0,June,September,Soybean
+701.0,64.5,29.6,NA,57.3,54.6,7.34,Red,Karnataka,Belagavi,Kharif,Sprinkler,Groundwater,SOY502 JS-95-60,Upland,DAP,Cotton,NA,July,NA,Soybean
+858.0,62.5,23.3,28.5,56.1,40.7,6.31,Black,Rajasthan,Kota,NA,Rainfed,Rainwater,SOY504 NRC-37,Upland,DAP,Fallow,110.0,July,September,Soybean
+1119.0,NA,23.3,59.3,58.6,50.4,6.45,Loamy,Maharashtra,NA,Kharif,Borewell,Rainwater,SOY502 JS-95-60,Upland,DAP,Cotton,91.0,July,October,Soybean
+766.0,75.8,NA,49.2,43.2,43.8,7.29,Loamy,Maharashtra,Nagpur,NA,Borewell,Rainwater,SOY502 JS-95-60,Upland,DAP,NA,114.0,July,October,Soybean
+1040.0,64.2,26.8,57.5,46.6,39.0,5.83,Black,Rajasthan,Kota,Kharif,Sprinkler,Groundwater,SOY504 NRC-37,Plain,NPK,Wheat,108.0,July,October,Soybean
+778.0,72.9,NA,26.8,66.2,42.3,6.93,Black,Karnataka,Dharwad,Kharif,Sprinkler,Groundwater,SOY502 JS-95-60,Plain,NPK,Cotton,103.0,July,October,Soybean
+690.0,78.0,31.9,50.4,62.5,54.8,7.01,NA,Maharashtra,Nagpur,Kharif,Rainfed,Groundwater,SOY504 NRC-37,Upland,NPK,Fallow,112.0,July,September,Soybean
+731.0,72.9,28.3,45.8,35.6,46.9,NA,Black,Rajasthan,Jhalawar,Kharif,Borewell,Groundwater,SOY501 JS-335,Plain,NPK,Cotton,104.0,July,September,Soybean
+1151.0,72.5,23.0,39.1,60.5,48.4,6.04,Black,Madhya Pradesh,Indore,Kharif,Rainfed,Rainwater,SOY503 MACS-450,Plain,NA,Maize,111.0,July,September,Soybean
+1137.0,77.2,31.0,44.4,NA,36.5,7.13,Black,Karnataka,Dharwad,Kharif,Borewell,Rainwater,SOY504 NRC-37,Plain,DAP,Cotton,101.0,June,October,Soybean
+1192.0,67.0,27.3,55.6,NA,42.5,7.42,Loamy,Rajasthan,NA,Kharif,Rainfed,Rainwater,SOY501 JS-335,Plain,NPK,Wheat,109.0,July,October,Soybean
+680.0,NA,23.3,45.2,59.3,46.0,7.31,Red,Madhya Pradesh,Indore,Kharif,Sprinkler,Rainwater,SOY502 JS-95-60,Plain,DAP,NA,102.0,June,October,Soybean
+785.0,68.3,30.0,33.1,42.9,41.5,6.85,Red,Madhya Pradesh,Indore,Kharif,Sprinkler,Rainwater,SOY503 MACS-450,Plain,DAP,Cotton,113.0,NA,October,Soybean
+951.0,69.7,24.3,NA,63.7,26.2,6.8,Loamy,NA,Kota,Kharif,Sprinkler,Groundwater,SOY502 JS-95-60,Plain,NPK,Cotton,90.0,June,October,Soybean
+681.0,79.1,NA,56.8,69.9,46.0,7.34,Red,Karnataka,Belagavi,Kharif,Borewell,Rainwater,SOY501 JS-335,Upland,DAP,Cotton,105.0,June,September,Soybean
+NA,NA,28.8,38.9,61.5,38.6,6.62,Loamy,Madhya Pradesh,Ujjain,Kharif,Rainfed,Rainwater,SOY501 JS-335,Plain,NPK,Cotton,100.0,June,September,Soybean
+637.0,64.2,27.1,30.7,58.0,54.9,6.7,Loamy,Maharashtra,Amravati,Kharif,Rainfed,Rainwater,NA,Upland,DAP,Fallow,95.0,July,September,Soybean
+865.0,72.5,22.6,53.5,67.9,44.5,7.71,Black,Rajasthan,Kota,Kharif,Sprinkler,Groundwater,SOY501 JS-335,Plain,DAP,Maize,95.0,June,October,Soybean
+NA,68.9,24.4,33.6,50.9,31.4,5.88,Red,Gujarat,Junagadh,Kharif,Rainfed,Rainwater,GRN603 ICGV-91114,Upland,DAP,Cotton,118.0,July,November,Groundnut
+823.0,66.6,25.5,20.2,56.4,41.8,7.54,Loamy,Rajasthan,Bikaner,Kharif,Rainfed,Rainwater,GRN603 ICGV-91114,Upland,NPK,Pearl Millet,NA,June,October,Groundnut
+494.0,63.4,30.3,39.9,53.5,33.3,7.68,Sandy,Rajasthan,Jodhpur,Kharif,Borewell,Groundwater,GRN602 GJG-22,Plain,NPK,Wheat,105.0,July,November,Groundnut
+682.0,77.9,24.1,41.9,34.5,48.6,7.04,Loamy,Andhra Pradesh,Anantapur,Kharif,Rainfed,Groundwater,GRN601 TAG-24,Upland,Organic,Wheat,100.0,June,November,Groundnut
+786.0,50.7,25.2,18.8,35.7,38.8,7.3,NA,Karnataka,Dharwad,Kharif,Rainfed,Groundwater,GRN603 ICGV-91114,Plain,NPK,Fallow,103.0,June,November,Groundnut
+727.0,51.9,26.2,43.1,44.0,38.4,5.83,Loamy,Rajasthan,Bikaner,Kharif,Borewell,Groundwater,GRN603 ICGV-91114,Upland,Organic,Fallow,116.0,June,November,Groundnut
+483.0,66.9,31.6,30.7,36.8,45.0,5.96,Sandy,Karnataka,Belagavi,Kharif,Borewell,Rainwater,GRN603 ICGV-91114,Plain,NPK,Cotton,128.0,June,October,Groundnut
+920.0,76.7,NA,23.1,35.8,39.2,5.81,Loamy,Rajasthan,Bikaner,Kharif,Rainfed,Groundwater,GRN603 ICGV-91114,Upland,DAP,Fallow,115.0,June,November,Groundnut
+477.0,52.7,24.4,20.6,46.2,44.4,5.89,Loamy,Karnataka,NA,Kharif,Sprinkler,Groundwater,GRN604 Kadiri-6,Plain,DAP,Pearl Millet,111.0,June,October,Groundnut
+866.0,NA,25.7,16.8,50.7,46.9,5.89,Red,Rajasthan,Jodhpur,Kharif,Rainfed,Rainwater,GRN602 GJG-22,Upland,NPK,Fallow,127.0,June,October,Groundnut
+632.0,71.4,28.1,34.6,47.4,25.7,7.78,Black,NA,Bikaner,Kharif,Borewell,Groundwater,GRN604 Kadiri-6,Upland,Organic,Pearl Millet,112.0,June,October,Groundnut
+548.0,72.3,30.8,31.4,44.3,52.7,5.95,Red,Gujarat,Rajkot,Kharif,Borewell,Rainwater,GRN603 ICGV-91114,Plain,Organic,Fallow,106.0,June,November,Groundnut
+719.0,67.7,31.4,33.4,30.5,30.8,7.42,Black,Karnataka,Belagavi,Kharif,NA,Rainwater,NA,Upland,NA,Cotton,128.0,July,October,Groundnut
+940.0,68.3,28.6,35.3,48.6,42.1,5.92,Black,Karnataka,Belagavi,Kharif,Borewell,Groundwater,GRN601 TAG-24,Upland,Organic,Fallow,121.0,June,November,Groundnut
+675.0,59.9,27.0,36.9,51.0,42.7,7.68,Red,Karnataka,Dharwad,Kharif,Borewell,Rainwater,GRN601 TAG-24,Plain,DAP,Fallow,122.0,June,October,Groundnut
+488.0,73.2,26.5,29.2,31.3,46.0,6.46,Sandy,Rajasthan,Jodhpur,Kharif,NA,Rainwater,GRN603 ICGV-91114,Plain,NA,Cotton,115.0,June,October,Groundnut
+625.0,75.5,24.6,35.8,35.5,34.6,6.63,Loamy,Gujarat,Junagadh,Kharif,Rainfed,Rainwater,NA,Upland,DAP,Fallow,113.0,July,November,Groundnut
+766.0,51.7,24.3,36.4,NA,NA,6.31,Sandy,Andhra Pradesh,Anantapur,Kharif,Rainfed,Rainwater,GRN601 TAG-24,Upland,NPK,Fallow,101.0,June,November,Groundnut
+896.0,62.0,31.5,42.4,47.2,30.4,6.34,Black,Tamil Nadu,Villupuram,Kharif,Borewell,Groundwater,GRN602 GJG-22,Plain,NA,Wheat,105.0,June,November,Groundnut
+548.0,70.2,31.7,36.4,47.4,25.4,6.52,Loamy,Gujarat,Rajkot,Kharif,Borewell,Groundwater,GRN603 ICGV-91114,Upland,DAP,Wheat,NA,July,November,Groundnut
+NA,65.6,31.1,NA,54.2,NA,7.43,Black,Gujarat,Rajkot,NA,NA,NA,GRN602 GJG-22,Plain,Organic,Wheat,107.0,June,November,Groundnut
+591.0,NA,25.4,40.8,45.0,45.2,6.28,NA,Gujarat,Rajkot,NA,Rainfed,Groundwater,GRN603 ICGV-91114,Upland,NPK,Cotton,127.0,June,October,Groundnut
+662.0,NA,32.9,19.5,34.6,34.9,5.91,NA,NA,Dharwad,Kharif,NA,Rainwater,GRN601 TAG-24,Upland,Organic,Cotton,109.0,June,NA,Groundnut
+531.0,55.8,27.1,34.1,41.9,25.2,6.85,Red,Andhra Pradesh,Kurnool,Kharif,Rainfed,NA,GRN603 ICGV-91114,Plain,Organic,Fallow,NA,July,NA,Groundnut
+803.0,50.7,31.9,42.1,38.0,49.4,5.96,Black,NA,NA,Kharif,Borewell,Groundwater,GRN601 TAG-24,Plain,DAP,Wheat,106.0,June,November,Groundnut
+NA,69.3,NA,35.5,39.9,40.0,7.09,Red,Tamil Nadu,Cuddalore,Kharif,Borewell,Rainwater,GRN602 GJG-22,Upland,Organic,Fallow,105.0,June,November,Groundnut
+496.0,69.1,26.4,43.3,NA,33.7,7.37,Loamy,Andhra Pradesh,Kurnool,Kharif,NA,NA,GRN601 TAG-24,Plain,Organic,Cotton,123.0,NA,November,Groundnut
+801.0,58.6,32.6,43.8,36.5,27.6,6.19,Loamy,Andhra Pradesh,Anantapur,Kharif,Borewell,Groundwater,NA,Plain,NPK,NA,103.0,June,October,Groundnut
+712.0,72.2,33.8,43.0,58.0,37.1,6.74,Black,Andhra Pradesh,Anantapur,Kharif,Rainfed,Rainwater,GRN603 ICGV-91114,Plain,NA,Cotton,123.0,July,October,Groundnut
+618.0,59.1,24.7,25.5,55.9,32.0,7.19,Red,Tamil Nadu,Cuddalore,Kharif,Borewell,Rainwater,GRN601 TAG-24,Upland,DAP,Cotton,129.0,July,October,Groundnut
+481.0,57.2,29.3,20.1,35.0,38.9,5.87,NA,Karnataka,Dharwad,Kharif,Rainfed,Rainwater,GRN602 GJG-22,Upland,Organic,Pearl Millet,101.0,June,October,Groundnut
+742.0,63.1,28.1,39.5,56.9,50.6,7.15,Loamy,Gujarat,Rajkot,Kharif,Rainfed,Groundwater,GRN602 GJG-22,Plain,NPK,Cotton,NA,June,November,Groundnut
+915.0,57.3,24.0,26.3,47.1,39.4,NA,Red,Gujarat,Junagadh,Kharif,Rainfed,Rainwater,GRN604 Kadiri-6,Upland,NPK,Pearl Millet,101.0,June,October,Groundnut
+932.0,NA,26.3,36.2,39.2,32.3,5.95,Loamy,Andhra Pradesh,Kurnool,Kharif,Rainfed,Groundwater,GRN602 GJG-22,Plain,Organic,Cotton,127.0,July,NA,Groundnut
+863.0,57.7,30.2,17.4,43.6,47.2,7.17,Sandy,Tamil Nadu,Villupuram,Kharif,Sprinkler,Rainwater,GRN603 ICGV-91114,Upland,Organic,Pearl Millet,118.0,July,November,Groundnut
+NA,72.6,27.2,31.9,38.4,48.5,NA,Sandy,NA,Cuddalore,Kharif,Sprinkler,Rainwater,GRN601 TAG-24,Plain,NPK,Pearl Millet,108.0,June,October,Groundnut
+579.0,72.9,NA,39.8,30.0,34.2,6.28,Black,Rajasthan,Jodhpur,Kharif,Borewell,NA,GRN603 ICGV-91114,Upland,Organic,Wheat,122.0,July,October,Groundnut
+988.0,72.6,31.4,31.1,55.2,35.2,NA,Red,Karnataka,Belagavi,Kharif,Rainfed,Groundwater,GRN602 GJG-22,Plain,DAP,Fallow,113.0,July,November,Groundnut
+606.0,59.1,NA,37.8,31.3,50.9,6.04,Sandy,Andhra Pradesh,Kurnool,Kharif,Borewell,Rainwater,GRN603 ICGV-91114,Plain,DAP,Cotton,111.0,June,October,Groundnut
+514.0,73.4,29.0,15.4,54.1,54.4,7.01,Black,Tamil Nadu,Cuddalore,Kharif,NA,Groundwater,GRN602 GJG-22,Plain,NPK,Pearl Millet,115.0,June,November,Groundnut
+542.0,58.7,29.0,38.9,52.2,44.4,6.11,Sandy,Andhra Pradesh,Kurnool,Kharif,Sprinkler,Groundwater,GRN603 ICGV-91114,Upland,NPK,Wheat,100.0,June,October,Groundnut
+976.0,76.7,27.5,16.3,35.4,36.8,7.7,Sandy,Tamil Nadu,Villupuram,Kharif,Sprinkler,Rainwater,NA,NA,Organic,Pearl Millet,122.0,July,November,Groundnut
+872.0,67.6,30.3,28.5,45.9,47.4,7.45,Loamy,Karnataka,Belagavi,Kharif,Sprinkler,Rainwater,GRN603 ICGV-91114,Plain,DAP,Wheat,113.0,NA,November,Groundnut
+904.0,69.3,NA,22.3,42.8,54.0,7.12,Loamy,Tamil Nadu,Villupuram,Kharif,Rainfed,Groundwater,GRN603 ICGV-91114,Upland,Organic,Cotton,116.0,July,November,Groundnut
+710.0,60.6,29.2,27.4,36.0,37.4,5.94,Red,Andhra Pradesh,Kurnool,Kharif,Rainfed,Rainwater,GRN602 GJG-22,Plain,NA,Cotton,NA,June,November,Groundnut
+750.0,55.8,29.4,21.9,55.5,36.9,6.29,NA,Gujarat,Junagadh,Kharif,Rainfed,NA,GRN601 TAG-24,Plain,DAP,Pearl Millet,115.0,July,November,Groundnut
+582.0,62.4,26.8,17.4,56.3,46.9,6.4,Sandy,Tamil Nadu,Villupuram,Kharif,Sprinkler,Rainwater,GRN601 TAG-24,Upland,DAP,NA,130.0,July,November,Groundnut
+771.0,66.2,24.5,24.4,45.0,31.5,7.55,Red,Andhra Pradesh,Kurnool,Kharif,Sprinkler,Rainwater,GRN602 GJG-22,NA,NPK,Cotton,116.0,July,November,Groundnut
+643.0,75.5,29.7,37.9,54.4,35.3,6.67,Loamy,Karnataka,Dharwad,Kharif,Sprinkler,Rainwater,GRN604 Kadiri-6,Upland,DAP,Pearl Millet,106.0,NA,November,Groundnut
+473.0,70.9,28.5,15.6,31.9,36.6,NA,Loamy,NA,NA,Kharif,Sprinkler,Groundwater,GRN604 Kadiri-6,Upland,Organic,Wheat,113.0,June,NA,Groundnut
+481.0,57.5,21.3,21.5,63.9,41.5,8.11,Alluvial,Maharashtra,Jalna,Rabi,Sprinkler,Rainwater,CHK704 Vijay,Upland,DAP,Rice,108.0,November,March,Chickpea
+406.0,41.2,15.0,16.2,64.2,27.3,7.46,Alluvial,Maharashtra,Jalna,Rabi,NA,NA,CHK702 JGK-3,Plain,NPK,Pearl Millet,102.0,November,March,Chickpea
+608.0,45.2,23.4,17.1,61.4,23.6,6.72,Loamy,Uttar Pradesh,Kanpur,Rabi,Sprinkler,Groundwater,CHK701 JG-14,Plain,NPK,Pearl Millet,110.0,October,March,Chickpea
+733.0,37.5,19.6,35.4,39.6,44.8,7.63,Black,Uttar Pradesh,Etawah,Rabi,Rainfed,Rainwater,CHK703 ICCV-10,Plain,DAP,Maize,111.0,November,February,Chickpea
+602.0,60.7,23.7,28.1,NA,41.6,8.05,Loamy,Karnataka,Kalaburagi,Rabi,Sprinkler,Groundwater,CHK701 JG-14,Upland,Organic,Rice,111.0,October,NA,Chickpea
+604.0,53.0,17.2,26.4,51.6,49.1,7.6,Alluvial,Rajasthan,Sri Ganganagar,Rabi,Rainfed,Groundwater,CHK702 JGK-3,Upland,DAP,Soybean,105.0,October,February,Chickpea
+534.0,43.4,16.8,36.8,58.5,27.7,7.7,Alluvial,Uttar Pradesh,Etawah,Rabi,Rainfed,Groundwater,CHK704 Vijay,Upland,Organic,Rice,116.0,October,March,Chickpea
+770.0,62.7,21.5,24.8,55.8,21.1,7.04,Alluvial,Maharashtra,Jalna,Rabi,Borewell,Groundwater,CHK702 JGK-3,Upland,DAP,NA,112.0,November,March,Chickpea
+653.0,45.1,17.3,23.4,46.0,34.3,7.72,Black,Rajasthan,Bikaner,Rabi,Sprinkler,Canal,NA,Upland,DAP,Pearl Millet,104.0,November,March,Chickpea
+404.0,36.1,15.7,40.0,34.1,NA,NA,Black,Maharashtra,Aurangabad,Rabi,Sprinkler,Groundwater,CHK703 ICCV-10,Plain,DAP,Maize,114.0,October,February,Chickpea
+607.0,45.0,19.1,18.2,42.8,23.0,7.69,Loamy,Maharashtra,Aurangabad,Rabi,Sprinkler,Groundwater,CHK702 JGK-3,NA,NA,Soybean,107.0,NA,February,Chickpea
+634.0,48.7,21.3,37.7,39.9,29.5,8.03,Black,Uttar Pradesh,Kanpur,Rabi,Rainfed,Groundwater,CHK701 JG-14,Upland,DAP,Maize,124.0,November,February,Chickpea
+449.0,50.5,16.3,37.6,61.7,42.3,7.17,Black,Rajasthan,Sri Ganganagar,Rabi,Sprinkler,Groundwater,CHK703 ICCV-10,NA,NPK,Maize,120.0,November,March,Chickpea
+533.0,61.4,23.4,42.0,51.8,23.9,6.68,Alluvial,NA,Etawah,Rabi,Borewell,Canal,CHK704 Vijay,NA,NA,Soybean,109.0,November,March,Chickpea
+563.0,41.8,23.0,16.2,41.4,34.1,6.33,Loamy,Karnataka,Bidar,Rabi,Borewell,Rainwater,CHK703 ICCV-10,Plain,Organic,Rice,125.0,November,March,Chickpea
+NA,48.4,25.6,NA,33.0,36.2,8.01,Alluvial,Karnataka,Bidar,Rabi,NA,Rainwater,CHK702 JGK-3,Upland,Organic,Rice,101.0,November,February,Chickpea
+NA,47.9,23.2,21.5,52.0,47.7,8.19,NA,Maharashtra,Jalna,Rabi,Rainfed,Canal,CHK702 JGK-3,Plain,DAP,Rice,113.0,November,February,Chickpea
+780.0,62.6,NA,25.2,44.2,27.2,7.38,Black,Maharashtra,Jalna,Rabi,Rainfed,Rainwater,CHK702 JGK-3,NA,NPK,Maize,125.0,October,February,Chickpea
+617.0,49.7,16.7,22.3,40.2,47.7,6.51,Alluvial,Maharashtra,Aurangabad,Rabi,Sprinkler,Rainwater,CHK703 ICCV-10,Upland,NA,Rice,110.0,October,February,Chickpea
+748.0,39.6,22.8,34.9,44.7,41.0,6.9,Loamy,Rajasthan,Bikaner,Rabi,Borewell,Groundwater,CHK701 JG-14,Upland,NPK,NA,125.0,October,February,Chickpea
+576.0,62.3,24.3,32.5,57.9,45.9,7.01,Alluvial,Rajasthan,Sri Ganganagar,Rabi,Sprinkler,Canal,CHK702 JGK-3,Plain,Organic,Maize,119.0,November,February,Chickpea
+400.0,35.9,24.4,41.2,37.7,24.8,6.14,Loamy,Uttar Pradesh,Etawah,Rabi,Rainfed,Rainwater,CHK703 ICCV-10,Plain,Organic,Rice,107.0,October,March,Chickpea
+429.0,50.4,24.3,44.2,37.0,20.3,6.17,Loamy,Karnataka,Bidar,NA,Sprinkler,Groundwater,CHK701 JG-14,Plain,Organic,Pearl Millet,104.0,October,February,Chickpea
+557.0,56.3,27.8,NA,33.4,41.6,6.62,Black,Karnataka,Bidar,Rabi,Sprinkler,Rainwater,CHK701 JG-14,Plain,DAP,NA,NA,October,March,Chickpea
+771.0,48.7,18.8,31.9,33.9,38.3,7.25,Loamy,Uttar Pradesh,Etawah,NA,Rainfed,Groundwater,CHK704 Vijay,Upland,NPK,Maize,NA,October,February,Chickpea
+627.0,62.8,27.5,NA,45.8,28.4,8.11,Black,Maharashtra,Aurangabad,Rabi,NA,Canal,CHK702 JGK-3,Plain,DAP,Soybean,95.0,October,February,Chickpea
+610.0,37.5,NA,28.2,47.9,27.8,6.7,Black,Rajasthan,Bikaner,Rabi,Sprinkler,Rainwater,CHK704 Vijay,Plain,NPK,Maize,113.0,October,February,Chickpea
+707.0,53.8,27.2,35.4,50.0,38.3,8.07,Black,Madhya Pradesh,Sagar,Rabi,Rainfed,Canal,CHK703 ICCV-10,Upland,NPK,NA,98.0,NA,February,Chickpea
+740.0,63.7,18.1,41.5,33.4,21.7,6.28,Alluvial,Karnataka,Kalaburagi,Rabi,Rainfed,Rainwater,NA,Plain,Organic,NA,NA,November,February,Chickpea
+410.0,60.6,25.6,15.4,61.4,20.9,6.53,Black,NA,Bikaner,Rabi,Borewell,Groundwater,CHK703 ICCV-10,Plain,DAP,Pearl Millet,114.0,October,February,Chickpea
+577.0,42.8,15.1,34.4,47.9,33.4,8.13,Loamy,Madhya Pradesh,Sagar,Rabi,Sprinkler,Canal,CHK703 ICCV-10,Plain,NA,Maize,106.0,November,March,Chickpea
+525.0,38.9,18.4,NA,55.1,23.7,7.32,Alluvial,Maharashtra,Aurangabad,NA,Rainfed,Groundwater,CHK704 Vijay,Upland,NPK,Pearl Millet,119.0,NA,March,Chickpea
+428.0,43.0,16.6,21.9,33.7,44.7,6.31,Loamy,Maharashtra,Aurangabad,Rabi,Rainfed,Canal,CHK704 Vijay,Upland,DAP,Pearl Millet,112.0,November,March,Chickpea
+581.0,58.4,21.8,34.2,57.5,32.2,6.01,Loamy,Uttar Pradesh,Kanpur,Rabi,Borewell,Canal,CHK703 ICCV-10,Plain,Organic,Maize,112.0,November,February,Chickpea
+445.0,60.2,15.4,40.3,46.1,26.5,NA,Alluvial,Maharashtra,Aurangabad,Rabi,Borewell,NA,CHK701 JG-14,Upland,DAP,Pearl Millet,111.0,October,February,Chickpea
+390.0,56.5,18.5,37.8,55.3,NA,7.12,Black,Maharashtra,Jalna,NA,Sprinkler,Canal,CHK703 ICCV-10,Plain,DAP,Rice,102.0,November,March,Chickpea
+NA,48.0,16.2,37.4,30.4,NA,6.4,Black,Rajasthan,Sri Ganganagar,Rabi,Borewell,Rainwater,CHK701 JG-14,Upland,NA,Rice,114.0,November,March,Chickpea
+740.0,48.3,16.8,NA,58.6,49.5,8.0,Loamy,Uttar Pradesh,Etawah,Rabi,Borewell,Rainwater,CHK701 JG-14,Plain,DAP,NA,NA,October,March,Chickpea
+529.0,47.9,22.4,15.1,39.1,35.5,7.59,Black,Maharashtra,Aurangabad,Rabi,Sprinkler,Groundwater,CHK704 Vijay,Upland,NPK,Pearl Millet,125.0,October,February,Chickpea
+768.0,38.7,23.5,16.6,45.6,36.6,6.66,Black,Karnataka,Bidar,NA,NA,Groundwater,CHK701 JG-14,Plain,NPK,Maize,100.0,November,March,Chickpea
+547.0,36.2,21.5,37.9,39.3,44.2,6.55,Alluvial,Uttar Pradesh,Etawah,Rabi,Sprinkler,Groundwater,CHK701 JG-14,Plain,Organic,Soybean,125.0,November,March,Chickpea
+661.0,58.9,17.1,18.1,35.1,NA,7.16,Black,Maharashtra,Aurangabad,Rabi,Borewell,Rainwater,CHK703 ICCV-10,Upland,DAP,NA,107.0,November,March,Chickpea
+492.0,53.6,17.9,28.3,61.5,24.0,6.85,Alluvial,Karnataka,Kalaburagi,Rabi,Rainfed,Canal,CHK704 Vijay,Upland,NPK,Soybean,103.0,November,February,Chickpea
+503.0,64.9,18.4,23.4,62.6,20.7,7.53,Loamy,Karnataka,NA,NA,Rainfed,Rainwater,CHK703 ICCV-10,Plain,Organic,Maize,96.0,October,March,Chickpea
+641.0,54.4,16.7,34.5,64.4,47.4,6.97,Loamy,NA,Sri Ganganagar,Rabi,Borewell,Canal,CHK702 JGK-3,Upland,Organic,Pearl Millet,123.0,November,March,Chickpea
+542.0,49.1,27.1,34.2,40.9,35.8,6.15,Alluvial,Karnataka,Kalaburagi,Rabi,Rainfed,Canal,CHK702 JGK-3,NA,Organic,Maize,123.0,October,February,Chickpea
+488.0,36.7,19.5,35.0,NA,20.4,6.31,Loamy,Maharashtra,NA,Rabi,Borewell,Rainwater,CHK704 Vijay,Upland,NPK,Soybean,115.0,November,March,Chickpea
+575.0,52.2,16.8,43.1,42.3,33.4,7.48,NA,Rajasthan,Bikaner,Rabi,Rainfed,Canal,CHK702 JGK-3,Plain,DAP,Pearl Millet,118.0,November,March,Chickpea
+547.0,45.3,NA,17.7,56.5,37.5,6.41,Black,Maharashtra,Jalna,Rabi,Sprinkler,Rainwater,CHK702 JGK-3,Plain,NPK,Rice,102.0,October,March,Chickpea
+608.0,NA,NA,25.5,50.9,28.2,NA,Loamy,Uttar Pradesh,Kanpur,Rabi,Rainfed,Canal,CHK704 Vijay,Upland,NPK,Rice,NA,November,February,Chickpea
+414.0,59.4,16.3,NA,NA,22.3,7.13,Alluvial,Haryana,Sirsa,Rabi,Borewell,Canal,MUS803 GM-3,Plain,DAP,Rice,135.0,November,February,Mustard
+581.0,63.4,12.8,73.6,50.5,28.6,7.41,NA,Haryana,Sirsa,Rabi,NA,NA,MUS801 Pusa Bold,Plain,Urea,Pearl Millet,NA,October,February,Mustard
+394.0,53.8,24.8,49.5,29.3,42.8,7.1,Black,Madhya Pradesh,Gwalior,Rabi,Rainfed,NA,MUS803 GM-3,Plain,DAP,Maize,125.0,October,February,Mustard
+633.0,53.8,24.8,81.8,30.0,20.1,8.16,Alluvial,Haryana,Hisar,NA,Borewell,Groundwater,MUS803 GM-3,Plain,NPK,Maize,NA,October,March,Mustard
+379.0,66.5,14.9,67.6,31.7,36.4,7.5,Black,Rajasthan,Alwar,Rabi,NA,Canal,MUS804 RH-725,Plain,NPK,Fallow,139.0,November,March,Mustard
+342.0,51.8,NA,46.4,28.9,39.3,6.43,Alluvial,NA,Sri Ganganagar,Rabi,Canal,Groundwater,MUS802 Varuna,Plain,Urea,Pearl Millet,131.0,November,February,Mustard
+322.0,40.5,13.4,NA,37.9,35.3,6.31,Sandy,Uttar Pradesh,Etah,Rabi,Borewell,Canal,MUS801 Pusa Bold,Plain,DAP,Fallow,125.0,November,March,Mustard
+694.0,59.2,NA,75.9,28.2,43.4,8.0,Black,Madhya Pradesh,Morena,NA,Canal,Rainwater,MUS802 Varuna,Plain,NPK,Fallow,112.0,October,February,Mustard
+480.0,66.3,25.3,50.8,43.7,34.2,7.93,Loamy,Haryana,NA,Rabi,Canal,Canal,MUS801 Pusa Bold,Plain,DAP,Pearl Millet,134.0,NA,March,Mustard
+572.0,48.4,NA,44.3,51.9,NA,8.16,Loamy,Haryana,NA,Rabi,Borewell,Groundwater,MUS804 RH-725,Plain,DAP,NA,119.0,November,March,Mustard
+303.0,NA,13.1,58.6,45.4,27.1,6.18,Loamy,NA,Etah,Rabi,Canal,Groundwater,MUS801 Pusa Bold,Plain,NPK,Rice,118.0,November,March,Mustard
+509.0,46.0,22.9,49.2,32.8,22.8,6.88,Sandy,Rajasthan,Alwar,Rabi,NA,Canal,MUS803 GM-3,Plain,Urea,Maize,121.0,October,February,Mustard
+328.0,41.6,13.7,66.1,52.9,34.9,7.85,Loamy,Rajasthan,Alwar,Rabi,Borewell,Groundwater,MUS804 RH-725,Plain,NPK,Maize,134.0,November,February,Mustard
+314.0,57.8,24.0,55.5,36.7,46.7,7.79,Black,Madhya Pradesh,Morena,Rabi,NA,Rainwater,MUS803 GM-3,Plain,DAP,Pearl Millet,127.0,October,March,Mustard
+557.0,47.8,18.3,NA,30.2,38.7,7.94,Sandy,Uttar Pradesh,Etah,Rabi,Canal,Rainwater,MUS804 RH-725,Plain,Urea,Maize,114.0,NA,February,Mustard
+678.0,57.7,18.1,63.6,31.0,42.5,7.64,NA,Madhya Pradesh,Morena,Rabi,Rainfed,Canal,MUS803 GM-3,Plain,Urea,Maize,125.0,October,February,Mustard
+384.0,46.6,20.8,77.3,37.5,27.7,7.91,Alluvial,Haryana,Sirsa,Rabi,Rainfed,NA,MUS801 Pusa Bold,Plain,NPK,Pearl Millet,127.0,October,March,Mustard
+581.0,54.2,18.2,45.9,33.7,46.1,7.99,Loamy,Haryana,Sirsa,Rabi,Borewell,Rainwater,MUS801 Pusa Bold,Plain,DAP,NA,132.0,November,February,Mustard
+633.0,53.0,18.8,82.1,44.1,47.0,NA,Black,Haryana,Sirsa,Rabi,Borewell,Canal,MUS801 Pusa Bold,Plain,Urea,NA,119.0,October,February,Mustard
+366.0,51.4,25.0,72.0,37.6,35.5,6.19,Black,Madhya Pradesh,Morena,NA,Rainfed,Groundwater,MUS803 GM-3,Plain,NA,Maize,112.0,November,February,Mustard
+NA,67.0,16.1,61.6,NA,20.1,6.91,Black,Rajasthan,Alwar,Rabi,Canal,Canal,MUS802 Varuna,Plain,Urea,Rice,125.0,November,March,Mustard
+593.0,59.2,15.0,50.8,33.4,32.3,6.52,Sandy,Madhya Pradesh,Gwalior,Rabi,NA,Canal,MUS804 RH-725,Plain,NPK,Pearl Millet,133.0,October,March,Mustard
+359.0,44.5,23.1,67.7,26.3,38.7,6.68,Alluvial,Madhya Pradesh,Gwalior,Rabi,Borewell,Rainwater,MUS801 Pusa Bold,Plain,Urea,Rice,130.0,October,NA,Mustard
+508.0,41.0,13.1,70.3,45.7,30.2,6.47,Sandy,Madhya Pradesh,Gwalior,Rabi,Borewell,Groundwater,MUS802 Varuna,Plain,NPK,Pearl Millet,114.0,October,February,Mustard
+320.0,44.2,19.5,65.9,NA,20.5,8.11,Sandy,Madhya Pradesh,Morena,Rabi,Rainfed,Rainwater,MUS801 Pusa Bold,Plain,DAP,Fallow,118.0,NA,February,Mustard
+540.0,49.6,25.3,80.6,46.4,44.5,7.47,Alluvial,Haryana,Hisar,NA,Borewell,Canal,MUS804 RH-725,Plain,DAP,Pearl Millet,118.0,October,February,Mustard
+369.0,64.4,20.6,47.1,53.9,35.6,6.16,NA,Rajasthan,Sri Ganganagar,Rabi,Rainfed,Canal,MUS801 Pusa Bold,Plain,NPK,Pearl Millet,112.0,November,February,Mustard
+383.0,60.6,NA,63.4,45.1,44.5,NA,Alluvial,NA,Mathura,Rabi,Canal,Groundwater,MUS803 GM-3,Plain,Urea,Pearl Millet,139.0,November,March,Mustard
+341.0,NA,20.6,83.2,52.1,40.9,6.21,Alluvial,Uttar Pradesh,Mathura,Rabi,Borewell,Canal,MUS802 Varuna,NA,DAP,Rice,127.0,October,March,Mustard
+351.0,52.0,14.3,NA,47.8,23.2,7.11,Alluvial,Haryana,Hisar,Rabi,Canal,Canal,MUS803 GM-3,Plain,Urea,Maize,126.0,NA,March,Mustard
+534.0,62.3,16.8,76.2,35.2,NA,7.22,Alluvial,West Bengal,Murshidabad,Rabi,Canal,Canal,MUS802 Varuna,Plain,Urea,Maize,136.0,November,February,Mustard
+434.0,43.0,15.3,82.7,34.2,25.1,7.01,Sandy,West Bengal,Murshidabad,Rabi,Canal,Rainwater,MUS804 RH-725,Plain,NPK,Pearl Millet,125.0,November,March,Mustard
+479.0,67.0,17.3,51.6,32.3,33.7,7.67,Loamy,Uttar Pradesh,Mathura,NA,Canal,Canal,MUS801 Pusa Bold,Plain,DAP,NA,129.0,November,NA,Mustard
+525.0,45.7,22.4,42.4,50.6,25.9,7.92,Loamy,Rajasthan,Sri Ganganagar,NA,Rainfed,Groundwater,MUS803 GM-3,Plain,NPK,Maize,138.0,November,March,Mustard
+497.0,NA,14.7,82.5,54.3,31.3,8.03,Loamy,Rajasthan,Alwar,Rabi,Borewell,Groundwater,MUS801 Pusa Bold,Plain,DAP,Rice,137.0,October,March,Mustard
+NA,41.5,13.6,40.2,55.0,44.1,7.73,NA,Uttar Pradesh,Etah,Rabi,Borewell,Rainwater,MUS803 GM-3,Plain,NPK,Maize,120.0,October,February,Mustard
+378.0,48.8,20.7,NA,46.0,NA,7.87,Sandy,West Bengal,Murshidabad,Rabi,Rainfed,Groundwater,MUS803 GM-3,Plain,Urea,NA,114.0,November,February,Mustard
+495.0,57.5,25.2,66.1,41.2,21.5,6.14,Black,Haryana,Sirsa,Rabi,Rainfed,NA,MUS801 Pusa Bold,Plain,Urea,Pearl Millet,120.0,October,February,Mustard
+669.0,40.4,22.2,80.0,26.9,33.5,6.45,Sandy,West Bengal,Murshidabad,Rabi,Canal,Canal,MUS802 Varuna,Plain,DAP,Rice,117.0,October,February,Mustard
+364.0,64.8,12.1,79.7,42.2,29.9,7.59,Alluvial,Rajasthan,Sri Ganganagar,Rabi,Canal,Rainwater,NA,Plain,DAP,Fallow,139.0,October,NA,Mustard
+354.0,44.1,21.8,68.9,48.5,48.1,7.52,Loamy,Madhya Pradesh,Gwalior,Rabi,Canal,Groundwater,NA,Plain,Urea,Maize,137.0,November,March,Mustard
+509.0,47.4,22.7,81.7,39.5,29.5,7.74,Black,West Bengal,Murshidabad,Rabi,Borewell,Groundwater,MUS801 Pusa Bold,Plain,Urea,Fallow,113.0,October,March,Mustard
+621.0,44.3,17.1,56.8,29.5,44.0,7.56,Black,West Bengal,Nadia,Rabi,Rainfed,Groundwater,MUS803 GM-3,Plain,NA,Pearl Millet,130.0,November,March,Mustard
+612.0,NA,20.1,81.0,41.6,NA,6.83,Black,Uttar Pradesh,Etah,Rabi,NA,NA,MUS804 RH-725,Plain,NPK,Maize,NA,October,February,Mustard
+592.0,54.0,17.8,NA,30.6,20.3,NA,Alluvial,Haryana,Sirsa,Rabi,Rainfed,Rainwater,MUS803 GM-3,Plain,NA,Fallow,136.0,November,March,Mustard
+315.0,65.7,21.4,84.6,51.5,34.2,7.14,Alluvial,Uttar Pradesh,Mathura,Rabi,Canal,Groundwater,MUS803 GM-3,Plain,DAP,Fallow,131.0,November,NA,Mustard
+660.0,NA,21.4,69.9,38.6,45.1,8.12,Black,Madhya Pradesh,Gwalior,Rabi,Canal,Groundwater,MUS804 RH-725,Plain,Urea,Maize,115.0,November,February,Mustard
+504.0,41.7,17.4,60.0,29.2,23.1,7.18,Loamy,West Bengal,Nadia,Rabi,Borewell,Canal,MUS804 RH-725,Plain,NPK,Maize,127.0,October,February,Mustard
+647.0,64.7,16.9,43.7,46.7,29.3,7.72,Black,West Bengal,Murshidabad,Rabi,Rainfed,Rainwater,MUS803 GM-3,Plain,Urea,Pearl Millet,115.0,November,March,Mustard
+305.0,50.2,20.4,78.2,51.7,34.5,7.6,Alluvial,West Bengal,Nadia,Rabi,Canal,Canal,MUS804 RH-725,Plain,Urea,Rice,NA,October,March,Mustard
+415.0,68.5,20.1,138.2,68.0,74.9,5.64,Alluvial,Madhya Pradesh,NA,Rabi,Sprinkler,River,POT903 Kufri Pukhraj,Plain,Urea,NA,NA,October,January,Potato
+669.0,65.3,16.9,152.1,58.4,81.4,NA,Loamy,Bihar,Nalanda,Rabi,Canal,Groundwater,POT904 Kufri Bahar,Plain,Mixed,Maize,NA,October,February,Potato
+834.0,62.4,22.4,118.8,100.0,80.5,5.22,Sandy,Gujarat,Banaskantha,Rabi,Canal,River,POT902 Kufri Chipsona,Plain,Urea,Fallow,110.0,November,January,Potato
+873.0,70.2,14.8,132.6,62.0,98.2,6.25,Sandy,Uttar Pradesh,Farrukhabad,Rabi,Canal,River,POT904 Kufri Bahar,Plain,Mixed,Rice,104.0,November,February,Potato
+496.0,68.2,22.1,136.8,85.9,104.9,7.38,Loamy,Madhya Pradesh,Indore,Rabi,Canal,Canal,POT901 Kufri Jyoti,Plain,NPK,Fallow,95.0,October,January,Potato
+630.0,68.9,20.7,152.0,64.0,103.9,NA,Alluvial,Bihar,NA,Rabi,Canal,Groundwater,POT902 Kufri Chipsona,Plain,NPK,Maize,96.0,November,February,Potato
+622.0,77.6,19.3,138.4,89.8,105.0,7.41,Sandy,Bihar,Nalanda,Rabi,Drip,Canal,POT901 Kufri Jyoti,Plain,NPK,Rice,88.0,November,January,Potato
+828.0,NA,16.4,129.7,69.3,124.9,6.95,Loamy,Gujarat,NA,Rabi,Drip,River,POT904 Kufri Bahar,Plain,Mixed,Maize,90.0,November,February,Potato
+765.0,NA,23.4,134.5,59.0,114.1,5.78,Alluvial,Uttar Pradesh,Farrukhabad,Rabi,Sprinkler,Canal,POT903 Kufri Pukhraj,Plain,NPK,NA,93.0,November,January,Potato
+754.0,71.4,17.0,146.0,59.9,78.6,7.5,Loamy,Madhya Pradesh,Ujjain,Rabi,Sprinkler,NA,POT903 Kufri Pukhraj,Plain,Urea,Fallow,86.0,November,January,Potato
+416.0,65.0,21.2,104.4,86.1,83.8,6.78,Alluvial,West Bengal,Hooghly,Rabi,Drip,Groundwater,POT903 Kufri Pukhraj,Plain,Urea,NA,104.0,November,February,Potato
+578.0,57.8,25.4,150.8,61.0,96.9,7.03,Alluvial,Madhya Pradesh,Ujjain,NA,Drip,NA,POT902 Kufri Chipsona,Plain,NPK,Rice,92.0,November,February,Potato
+764.0,68.9,18.3,128.4,98.5,76.7,5.82,Sandy,Gujarat,Deesa,Rabi,Canal,Groundwater,POT901 Kufri Jyoti,Plain,NPK,Maize,91.0,November,January,Potato
+883.0,53.9,18.5,NA,61.1,116.8,5.66,Alluvial,Uttar Pradesh,Agra,Rabi,Canal,Canal,POT904 Kufri Bahar,Plain,Mixed,Rice,96.0,October,January,Potato
+680.0,58.4,18.2,164.6,60.3,122.4,5.27,Sandy,Gujarat,Banaskantha,Rabi,Canal,Groundwater,POT904 Kufri Bahar,Plain,Urea,Rice,86.0,October,January,Potato
+769.0,68.8,19.7,NA,83.8,124.5,6.88,Sandy,Uttar Pradesh,Agra,Rabi,Canal,Canal,POT904 Kufri Bahar,Plain,NPK,Rice,86.0,October,February,Potato
+563.0,56.6,25.1,160.8,75.0,73.7,6.84,Loamy,Bihar,Nalanda,Rabi,Drip,Groundwater,POT901 Kufri Jyoti,NA,NA,Rice,91.0,October,NA,Potato
+736.0,57.2,22.9,152.5,65.9,99.0,5.88,Sandy,Uttar Pradesh,Agra,Rabi,Drip,Groundwater,NA,Plain,Mixed,Wheat,101.0,October,NA,Potato
+878.0,57.2,17.9,112.9,78.8,79.3,6.02,NA,Madhya Pradesh,Ujjain,Rabi,Sprinkler,Canal,POT901 Kufri Jyoti,Plain,Mixed,Rice,110.0,October,January,Potato
+NA,76.4,14.9,149.5,96.0,86.2,6.05,Sandy,Gujarat,Deesa,Rabi,Sprinkler,River,POT901 Kufri Jyoti,Plain,Urea,Wheat,106.0,November,February,Potato
+605.0,64.1,14.6,113.4,89.5,97.2,5.89,Sandy,West Bengal,Bardhaman,Rabi,Canal,River,POT901 Kufri Jyoti,Plain,Urea,NA,100.0,October,February,Potato
+785.0,77.1,19.4,138.5,97.2,82.7,6.4,NA,Gujarat,Banaskantha,Rabi,Drip,Canal,POT903 Kufri Pukhraj,Plain,NA,Fallow,108.0,November,January,Potato
+NA,51.7,22.1,137.1,83.1,105.4,6.17,Sandy,Bihar,Nalanda,Rabi,Drip,Groundwater,POT902 Kufri Chipsona,Plain,Urea,Wheat,NA,October,February,Potato
+804.0,70.8,20.7,149.0,70.6,78.3,6.73,Loamy,Gujarat,Banaskantha,Rabi,Sprinkler,Canal,POT904 Kufri Bahar,Plain,NPK,Fallow,107.0,October,January,Potato
+739.0,56.8,21.2,148.8,54.5,99.9,5.81,Loamy,West Bengal,Bardhaman,Rabi,Drip,River,POT901 Kufri Jyoti,Plain,NA,Maize,91.0,October,February,Potato
+604.0,62.9,21.0,136.5,57.5,73.9,6.88,Alluvial,West Bengal,Bardhaman,Rabi,Drip,Groundwater,POT903 Kufri Pukhraj,NA,Urea,Rice,NA,October,January,Potato
+436.0,78.0,18.7,155.5,64.0,108.8,7.21,Sandy,Madhya Pradesh,Ujjain,Rabi,Canal,NA,POT901 Kufri Jyoti,Plain,NPK,Fallow,106.0,November,February,Potato
+776.0,50.5,20.2,137.1,70.0,87.8,6.77,Sandy,Uttar Pradesh,Agra,Rabi,Drip,River,POT902 Kufri Chipsona,Plain,Urea,Fallow,99.0,November,February,Potato
+760.0,NA,21.3,126.8,65.2,71.5,5.21,Sandy,West Bengal,Bardhaman,Rabi,Sprinkler,Canal,POT902 Kufri Chipsona,Plain,Urea,Rice,85.0,October,February,Potato
+731.0,77.1,15.2,116.2,85.4,119.4,7.17,Alluvial,Madhya Pradesh,NA,Rabi,Drip,River,POT904 Kufri Bahar,Plain,Urea,Wheat,91.0,November,January,Potato
+438.0,74.8,19.1,141.7,54.5,90.2,5.41,Alluvial,Uttar Pradesh,Agra,Rabi,Drip,Canal,POT903 Kufri Pukhraj,Plain,Urea,Wheat,109.0,November,February,Potato
+682.0,78.3,14.0,116.7,96.9,80.3,5.46,Sandy,Gujarat,Deesa,Rabi,Sprinkler,River,POT901 Kufri Jyoti,Plain,Urea,Rice,94.0,October,January,Potato
+NA,62.2,17.4,139.1,65.2,75.2,5.2,Alluvial,Gujarat,Deesa,Rabi,Canal,Groundwater,POT902 Kufri Chipsona,Plain,Mixed,Maize,93.0,November,January,Potato
+480.0,54.9,17.4,155.5,95.3,128.5,5.73,Sandy,Uttar Pradesh,Agra,Rabi,Drip,Groundwater,POT904 Kufri Bahar,Plain,NA,Fallow,106.0,November,February,Potato
+478.0,50.5,17.8,141.2,56.9,95.6,6.47,Sandy,Bihar,NA,Rabi,Sprinkler,Canal,POT903 Kufri Pukhraj,Plain,NPK,Maize,98.0,November,January,Potato
+813.0,59.1,18.8,122.2,73.4,87.1,7.41,Alluvial,West Bengal,Hooghly,Rabi,Canal,Groundwater,NA,Plain,Urea,Rice,98.0,NA,February,Potato
+632.0,63.0,23.6,151.8,NA,90.0,5.93,Alluvial,West Bengal,Bardhaman,Rabi,Drip,Canal,NA,Plain,NPK,Wheat,104.0,November,January,Potato
+427.0,66.1,25.2,141.8,90.5,118.0,7.34,Loamy,West Bengal,Hooghly,Rabi,Drip,Canal,POT902 Kufri Chipsona,Plain,Urea,Maize,86.0,November,February,Potato
+603.0,77.9,15.1,135.8,95.9,124.2,5.56,Sandy,Gujarat,Deesa,Rabi,Drip,River,POT903 Kufri Pukhraj,Plain,NPK,Wheat,104.0,November,January,Potato
+760.0,72.4,20.2,123.2,91.9,88.6,6.37,Loamy,West Bengal,Hooghly,Rabi,Drip,NA,POT903 Kufri Pukhraj,Plain,Mixed,Rice,103.0,October,January,Potato
+564.0,68.8,17.3,163.7,81.7,74.3,7.29,NA,Uttar Pradesh,Farrukhabad,NA,Canal,Canal,POT902 Kufri Chipsona,Plain,NPK,Fallow,107.0,October,January,Potato
+553.0,54.6,17.2,129.9,86.6,90.2,5.96,Sandy,Uttar Pradesh,Farrukhabad,Rabi,Sprinkler,Canal,NA,Plain,Urea,Fallow,110.0,November,January,Potato
+503.0,59.7,19.6,NA,96.6,82.4,6.02,Sandy,Uttar Pradesh,Agra,NA,Drip,River,POT901 Kufri Jyoti,Plain,NPK,Wheat,102.0,November,January,Potato
+848.0,74.2,14.0,122.4,71.1,83.8,5.66,Sandy,West Bengal,Hooghly,Rabi,Canal,River,POT904 Kufri Bahar,Plain,Mixed,Maize,101.0,November,January,Potato
+642.0,62.5,25.7,114.0,NA,87.5,5.6,NA,NA,Patna,Rabi,Drip,River,POT902 Kufri Chipsona,Plain,Mixed,Rice,104.0,November,February,Potato
+420.0,62.1,21.8,148.9,81.9,89.2,5.42,Loamy,Gujarat,Deesa,Rabi,NA,River,POT901 Kufri Jyoti,Plain,NPK,NA,110.0,November,January,Potato
+779.0,59.2,21.1,137.6,50.2,74.3,5.87,Loamy,West Bengal,Bardhaman,Rabi,Drip,Groundwater,POT902 Kufri Chipsona,Plain,Mixed,Wheat,100.0,November,February,Potato
+854.0,52.8,19.6,162.1,82.1,94.8,5.87,Loamy,Uttar Pradesh,Farrukhabad,Rabi,Canal,Groundwater,POT903 Kufri Pukhraj,Plain,Urea,Rice,96.0,October,February,Potato
+746.0,77.1,24.2,129.0,55.6,74.5,6.53,Loamy,Gujarat,Banaskantha,Rabi,Sprinkler,Canal,POT904 Kufri Bahar,Plain,Mixed,Rice,109.0,November,February,Potato
+497.0,NA,25.2,158.4,92.1,88.2,6.19,NA,Uttar Pradesh,Agra,Rabi,Drip,Groundwater,POT904 Kufri Bahar,Plain,NPK,NA,85.0,November,January,Potato
+602.0,63.7,27.9,147.5,55.6,99.7,6.47,Loamy,Madhya Pradesh,Bhopal,Kharif,Borewell,Canal,TOM1001 Arka Rakshak,Plain,Mixed,NA,146.0,June,November,Tomato
+525.0,74.2,21.9,103.4,67.7,111.9,6.21,Black,Madhya Pradesh,Indore,Kharif,Borewell,Canal,TOM1004 Nandi,Plain,Organic,NA,110.0,July,September,Tomato
+750.0,62.1,19.1,141.3,72.8,60.2,5.82,Loamy,Andhra Pradesh,NA,Kharif,Sprinkler,River,TOM1001 Arka Rakshak,Plain,Mixed,Chickpea,127.0,July,NA,Tomato
+732.0,73.5,23.5,135.2,NA,116.0,6.45,Black,Himachal Pradesh,Solan,Kharif,Drip,River,TOM1001 Arka Rakshak,NA,NPK,Maize,117.0,June,September,Tomato
+NA,58.2,24.5,152.1,65.5,93.4,6.49,Loamy,NA,Kolar,Kharif,NA,River,TOM1003 Abhinav,Upland,NPK,Chickpea,124.0,NA,November,Tomato
+477.0,55.5,23.1,120.3,73.0,64.5,6.66,Loamy,Maharashtra,Pune,Kharif,Borewell,NA,TOM1001 Arka Rakshak,Upland,NPK,Maize,NA,July,November,Tomato
+630.0,58.9,18.5,131.3,68.6,77.0,NA,Red,Madhya Pradesh,Indore,Kharif,Drip,Groundwater,TOM1001 Arka Rakshak,Hilly,Organic,Maize,146.0,July,September,Tomato
+518.0,76.7,18.1,104.1,88.2,96.8,6.24,Red,Maharashtra,Nashik,Kharif,Borewell,NA,TOM1001 Arka Rakshak,Upland,Organic,Chickpea,148.0,July,November,Tomato
+453.0,NA,20.2,145.1,59.0,79.6,5.82,Loamy,Himachal Pradesh,Solan,Kharif,NA,Canal,TOM1001 Arka Rakshak,Plain,Organic,Chickpea,135.0,July,September,Tomato
+562.0,78.4,22.0,122.3,75.2,69.7,6.63,Alluvial,Karnataka,Kolar,Kharif,Borewell,Groundwater,TOM1001 Arka Rakshak,Plain,Mixed,Maize,118.0,June,November,Tomato
+466.0,73.2,21.7,155.4,77.4,105.2,6.17,Loamy,Andhra Pradesh,Kurnool,Kharif,Drip,Groundwater,TOM1004 Nandi,Hilly,NPK,Chickpea,140.0,June,November,Tomato
+692.0,65.3,22.5,141.2,NA,104.2,5.92,NA,Maharashtra,Pune,Kharif,NA,Canal,TOM1003 Abhinav,NA,Mixed,NA,115.0,July,November,Tomato
+852.0,74.5,NA,146.5,61.0,66.1,7.44,Alluvial,Maharashtra,Pune,Kharif,Sprinkler,River,TOM1001 Arka Rakshak,NA,NPK,Wheat,138.0,July,November,Tomato
+636.0,55.3,20.0,107.8,NA,66.8,7.09,Loamy,Karnataka,Kolar,Kharif,Drip,Canal,TOM1003 Abhinav,Hilly,NPK,Wheat,124.0,NA,November,Tomato
+585.0,54.1,25.3,97.9,87.0,71.0,6.23,Red,Maharashtra,Nashik,Kharif,Borewell,Canal,TOM1004 Nandi,Upland,Mixed,Chickpea,143.0,June,September,Tomato
+827.0,73.4,19.4,97.5,49.6,60.7,6.73,Red,Himachal Pradesh,Shimla,Kharif,Sprinkler,NA,TOM1003 Abhinav,Plain,Organic,Fallow,137.0,July,September,Tomato
+455.0,NA,23.9,90.7,NA,NA,6.72,Red,Karnataka,Bengaluru Rural,Kharif,Drip,Canal,TOM1002 Pusa Ruby,Hilly,Organic,Fallow,134.0,June,November,Tomato
+748.0,74.8,18.8,123.6,69.1,70.1,6.35,Loamy,Madhya Pradesh,Bhopal,Kharif,Drip,Canal,TOM1002 Pusa Ruby,Upland,Organic,Maize,119.0,June,November,Tomato
+891.0,79.5,NA,NA,59.7,109.0,6.49,Alluvial,Karnataka,Bengaluru Rural,Kharif,Borewell,River,TOM1001 Arka Rakshak,Hilly,Mixed,Fallow,123.0,July,September,Tomato
+463.0,53.7,NA,92.1,48.2,99.6,6.53,Loamy,Maharashtra,NA,NA,Drip,Groundwater,TOM1003 Abhinav,Plain,Organic,Wheat,135.0,June,September,Tomato
+664.0,74.7,30.0,154.9,NA,93.3,6.38,Black,Madhya Pradesh,Indore,Kharif,NA,Groundwater,TOM1001 Arka Rakshak,Plain,NPK,Chickpea,112.0,June,September,Tomato
+582.0,69.2,19.8,120.1,57.4,113.3,5.87,NA,Madhya Pradesh,Indore,NA,Sprinkler,Canal,NA,Plain,Organic,Chickpea,126.0,July,September,Tomato
+785.0,57.9,18.1,136.8,88.8,96.4,6.0,Black,Maharashtra,Nashik,Kharif,Drip,River,NA,Plain,Organic,Wheat,137.0,June,September,Tomato
+NA,69.8,21.3,96.8,NA,93.2,6.12,Red,Andhra Pradesh,Kurnool,Kharif,Drip,Groundwater,TOM1002 Pusa Ruby,Plain,Organic,Chickpea,116.0,July,September,Tomato
+880.0,54.3,NA,148.1,60.7,85.5,6.02,Red,NA,Indore,Kharif,Drip,NA,NA,Plain,Mixed,Chickpea,NA,June,November,Tomato
+648.0,66.3,20.4,143.2,89.3,116.7,6.14,Alluvial,Karnataka,Kolar,Kharif,Borewell,Groundwater,TOM1004 Nandi,Hilly,NPK,Fallow,126.0,July,November,Tomato
+828.0,65.4,19.5,138.6,68.4,77.9,6.52,Loamy,Himachal Pradesh,Solan,Kharif,Drip,Groundwater,TOM1003 Abhinav,Hilly,Organic,Chickpea,122.0,June,NA,Tomato
+615.0,55.2,31.8,129.3,75.9,79.5,NA,Black,Karnataka,Kolar,Kharif,Borewell,Groundwater,TOM1002 Pusa Ruby,Hilly,Mixed,Wheat,123.0,July,September,Tomato
+481.0,76.9,27.6,107.5,NA,101.4,6.77,Alluvial,Andhra Pradesh,Prakasam,Kharif,Sprinkler,NA,TOM1003 Abhinav,Hilly,Mixed,Fallow,133.0,June,September,Tomato
+612.0,63.4,21.6,147.8,66.8,92.6,6.32,Loamy,Karnataka,Kolar,Kharif,Drip,River,TOM1004 Nandi,Hilly,NPK,Chickpea,137.0,June,November,Tomato
+584.0,53.0,22.3,136.5,75.0,77.2,6.58,Loamy,Andhra Pradesh,Kurnool,Kharif,Sprinkler,Canal,TOM1003 Abhinav,Plain,NA,Maize,146.0,NA,September,Tomato
+418.0,NA,NA,121.5,78.9,117.3,7.11,Red,Karnataka,NA,Kharif,Drip,Groundwater,TOM1003 Abhinav,Plain,NPK,Maize,140.0,June,November,Tomato
+534.0,68.1,30.2,159.9,NA,84.3,6.18,Red,NA,Bengaluru Rural,NA,Sprinkler,Groundwater,TOM1002 Pusa Ruby,Upland,NPK,Wheat,123.0,July,November,Tomato
+834.0,75.0,29.7,138.9,58.1,80.2,6.32,Red,NA,Kolar,Kharif,Drip,River,TOM1001 Arka Rakshak,Plain,NA,Chickpea,119.0,June,September,Tomato
+448.0,51.6,28.2,95.7,77.2,75.0,7.29,NA,NA,Solan,Kharif,Drip,Canal,TOM1001 Arka Rakshak,Hilly,Mixed,Fallow,132.0,July,November,Tomato
+439.0,NA,29.9,104.9,75.1,92.6,7.22,Loamy,Maharashtra,Pune,Kharif,Drip,Groundwater,TOM1002 Pusa Ruby,Upland,Organic,Fallow,110.0,July,September,Tomato
+865.0,75.1,31.9,91.6,50.1,96.6,7.19,Black,NA,Nashik,Kharif,Sprinkler,Groundwater,TOM1002 Pusa Ruby,Plain,Mixed,NA,135.0,June,November,Tomato
+764.0,60.6,26.6,131.0,69.6,98.4,6.24,Red,Andhra Pradesh,Prakasam,Kharif,Drip,Canal,TOM1001 Arka Rakshak,Hilly,Organic,Maize,142.0,July,November,Tomato
+498.0,74.8,29.6,110.5,84.4,106.3,6.51,Loamy,Himachal Pradesh,Solan,Kharif,Sprinkler,Groundwater,TOM1002 Pusa Ruby,Plain,NPK,Fallow,113.0,July,November,Tomato
+873.0,62.3,27.3,122.5,73.4,87.0,6.12,Loamy,Andhra Pradesh,Kurnool,Kharif,Sprinkler,River,TOM1004 Nandi,Upland,Mixed,Wheat,141.0,June,NA,Tomato
+571.0,75.0,21.8,141.3,49.2,117.1,6.86,Loamy,Himachal Pradesh,Shimla,Kharif,Sprinkler,River,TOM1004 Nandi,Hilly,NPK,Maize,125.0,NA,November,Tomato
+586.0,71.6,27.5,139.4,67.0,83.0,6.18,Loamy,Karnataka,Bengaluru Rural,Kharif,Borewell,Groundwater,TOM1001 Arka Rakshak,Upland,NPK,Maize,114.0,NA,November,Tomato
+459.0,79.7,20.9,90.8,89.9,76.9,6.94,Alluvial,Maharashtra,Nashik,Kharif,Sprinkler,Groundwater,TOM1003 Abhinav,Plain,Mixed,Fallow,148.0,July,September,Tomato
+701.0,58.9,30.4,148.8,NA,62.3,6.89,Black,Karnataka,Kolar,Kharif,Drip,Groundwater,TOM1004 Nandi,Hilly,NPK,Wheat,117.0,July,September,Tomato
+765.0,60.4,27.5,116.1,51.6,84.4,5.99,Red,Madhya Pradesh,Indore,Kharif,Drip,Groundwater,TOM1004 Nandi,Upland,Organic,Maize,114.0,July,September,Tomato
+464.0,66.7,30.5,158.2,47.1,81.3,6.16,Alluvial,Maharashtra,Nashik,Kharif,Drip,Canal,TOM1002 Pusa Ruby,Plain,NPK,Chickpea,111.0,July,November,Tomato
+845.0,67.1,29.4,146.6,53.5,66.6,7.03,Loamy,Maharashtra,Nashik,Kharif,Borewell,River,TOM1003 Abhinav,Hilly,Mixed,Wheat,114.0,June,November,Tomato
+539.0,69.3,27.7,151.0,60.4,106.2,6.75,Alluvial,Karnataka,Bengaluru Rural,Kharif,Borewell,NA,TOM1004 Nandi,Upland,Organic,NA,142.0,June,NA,Tomato
+427.0,78.1,25.4,133.0,66.7,65.6,7.11,Red,NA,Solan,Kharif,Borewell,Groundwater,TOM1004 Nandi,Upland,NPK,Wheat,119.0,July,September,Tomato
+696.0,78.1,27.5,119.0,76.0,80.6,6.27,Loamy,Andhra Pradesh,Kurnool,Kharif,Drip,Groundwater,TOM1002 Pusa Ruby,Hilly,Mixed,Fallow,149.0,July,September,Tomato
+677.0,70.1,25.5,120.4,36.3,63.3,6.27,Black,Karnataka,Dharwad,Rabi,Sprinkler,River,ONI1101 Nashik Red,Plain,Mixed,Fallow,115.0,November,April,Onion
+893.0,63.3,31.0,70.3,64.9,90.2,6.08,Red,Andhra Pradesh,Kurnool,Rabi,Canal,River,ONI1101 Nashik Red,Plain,Mixed,Fallow,117.0,November,NA,Onion
+593.0,56.3,30.2,103.8,NA,81.3,6.96,Red,Madhya Pradesh,Dewas,Rabi,Drip,NA,ONI1103 Bhima Super,Plain,Mixed,Cotton,150.0,November,March,Onion
+NA,75.4,19.8,96.7,67.6,89.5,6.84,Black,Karnataka,Belagavi,Rabi,Drip,Canal,ONI1102 Pusa Red,NA,NPK,Soybean,127.0,November,April,Onion
+707.0,NA,23.5,112.8,61.4,76.2,NA,Loamy,Karnataka,Belagavi,Rabi,Canal,Groundwater,ONI1101 Nashik Red,Plain,Mixed,Fallow,138.0,November,March,Onion
+862.0,52.6,28.5,NA,65.0,66.9,7.67,Black,Andhra Pradesh,Guntur,Rabi,Drip,River,ONI1104 Arka Kalyan,Plain,NA,Maize,132.0,October,April,Onion
+739.0,57.9,21.7,127.3,59.1,91.7,6.21,Red,Andhra Pradesh,Kurnool,Rabi,Sprinkler,Canal,ONI1103 Bhima Super,Plain,NPK,NA,132.0,November,March,Onion
+735.0,55.5,23.3,129.4,44.9,70.3,7.49,Black,NA,Kurnool,Rabi,Drip,River,ONI1101 Nashik Red,Plain,Mixed,Cotton,127.0,October,NA,Onion
+NA,76.0,30.7,104.0,49.2,64.1,6.62,Black,Andhra Pradesh,Kurnool,Rabi,Sprinkler,NA,ONI1103 Bhima Super,Plain,Urea,Cotton,144.0,October,March,Onion
+596.0,58.4,19.8,118.8,36.4,71.4,7.12,Loamy,Karnataka,Dharwad,Rabi,Drip,Canal,ONI1102 Pusa Red,Plain,NPK,Maize,123.0,October,April,Onion
+NA,49.3,27.5,120.5,44.1,88.3,5.87,Alluvial,Madhya Pradesh,Dewas,Rabi,Drip,Canal,ONI1102 Pusa Red,Plain,NPK,Fallow,124.0,November,April,Onion
+468.0,63.8,NA,109.7,70.3,NA,6.38,Black,Madhya Pradesh,Indore,Rabi,NA,Groundwater,ONI1102 Pusa Red,Plain,Urea,Maize,127.0,November,NA,Onion
+700.0,70.6,28.5,89.7,59.4,88.6,5.83,Red,Maharashtra,Nashik,Rabi,Sprinkler,Groundwater,ONI1104 Arka Kalyan,Plain,NA,Maize,135.0,October,April,Onion
+844.0,48.5,29.5,82.6,50.8,60.8,6.6,Red,Maharashtra,Ahmednagar,Rabi,Drip,Groundwater,ONI1103 Bhima Super,Plain,Mixed,Fallow,144.0,November,March,Onion
+645.0,53.5,30.4,104.6,43.8,58.5,7.41,Red,Andhra Pradesh,Guntur,Rabi,NA,River,ONI1101 Nashik Red,Plain,NPK,Fallow,132.0,November,March,Onion
+606.0,62.7,18.7,70.1,44.8,79.0,6.04,Loamy,Madhya Pradesh,Dewas,NA,Drip,Canal,ONI1101 Nashik Red,Plain,Mixed,Cotton,140.0,November,April,Onion
+870.0,53.6,29.9,121.8,65.9,53.4,7.44,Alluvial,Karnataka,Dharwad,Rabi,Canal,Groundwater,ONI1104 Arka Kalyan,Plain,Mixed,Maize,142.0,October,March,Onion
+899.0,74.3,18.7,103.8,60.9,55.5,6.09,Red,Andhra Pradesh,Kurnool,Rabi,Drip,NA,ONI1104 Arka Kalyan,Plain,Urea,NA,128.0,October,April,Onion
+432.0,64.9,18.8,123.6,56.2,78.5,7.46,Black,Karnataka,Dharwad,Rabi,Canal,Canal,ONI1102 Pusa Red,Plain,Mixed,Cotton,138.0,November,April,Onion
+699.0,46.0,21.8,72.0,51.8,89.8,7.77,Loamy,Karnataka,Belagavi,Rabi,Drip,Canal,ONI1103 Bhima Super,Plain,Mixed,Maize,116.0,October,March,Onion
+779.0,69.1,27.9,82.0,43.4,79.4,6.24,Red,Maharashtra,Nashik,Rabi,Sprinkler,Groundwater,ONI1103 Bhima Super,Plain,NA,Fallow,117.0,October,March,Onion
+514.0,NA,22.4,77.0,45.9,55.5,6.71,Alluvial,Maharashtra,Ahmednagar,Rabi,Sprinkler,Groundwater,ONI1102 Pusa Red,Plain,Urea,Maize,120.0,October,March,Onion
+684.0,57.0,28.6,85.4,62.7,47.0,7.48,Red,Gujarat,Rajkot,Rabi,Drip,Groundwater,ONI1104 Arka Kalyan,Plain,Mixed,Cotton,117.0,November,April,Onion
+847.0,61.4,29.8,118.1,NA,56.5,6.61,Alluvial,Gujarat,Rajkot,Rabi,Drip,Groundwater,ONI1104 Arka Kalyan,Plain,Mixed,Maize,120.0,November,NA,Onion
+523.0,48.6,29.1,75.9,45.9,87.8,6.49,Red,Gujarat,Bhavnagar,Rabi,Canal,Groundwater,ONI1101 Nashik Red,Plain,Urea,Maize,NA,October,NA,Onion
+450.0,68.3,18.4,122.2,40.5,51.4,6.15,Red,Karnataka,Dharwad,Rabi,Canal,NA,ONI1101 Nashik Red,Plain,NPK,Fallow,115.0,November,April,Onion
+564.0,73.4,19.7,96.0,50.9,91.9,6.11,Black,NA,Kurnool,Rabi,Canal,River,ONI1101 Nashik Red,Plain,NPK,Cotton,132.0,November,March,Onion
+766.0,67.6,NA,85.0,59.4,NA,6.54,Alluvial,Gujarat,Bhavnagar,Rabi,Drip,River,ONI1103 Bhima Super,Plain,NPK,Cotton,NA,November,April,Onion
+624.0,62.5,23.8,121.0,44.2,57.0,NA,Red,Maharashtra,Ahmednagar,Rabi,Sprinkler,NA,ONI1102 Pusa Red,Plain,Urea,Fallow,133.0,October,March,Onion
+496.0,59.5,26.2,119.0,74.5,64.4,5.89,Red,Karnataka,Belagavi,Rabi,Canal,Canal,ONI1103 Bhima Super,Plain,NPK,Maize,NA,November,April,Onion
+650.0,55.1,31.6,109.8,51.3,59.0,7.26,Red,Andhra Pradesh,Guntur,Rabi,Canal,Canal,ONI1101 Nashik Red,Plain,Urea,Fallow,130.0,October,March,Onion
+542.0,45.0,19.8,126.0,69.7,56.7,7.36,Black,Maharashtra,Ahmednagar,Rabi,NA,Groundwater,ONI1102 Pusa Red,Plain,NPK,Cotton,131.0,October,March,Onion
+882.0,62.8,22.0,77.2,63.1,77.2,6.55,Alluvial,Karnataka,Dharwad,Rabi,Drip,Canal,ONI1102 Pusa Red,Plain,NA,Fallow,134.0,October,March,Onion
+498.0,74.6,19.5,112.4,55.0,88.5,6.05,Black,Gujarat,Bhavnagar,NA,Canal,Groundwater,ONI1103 Bhima Super,Plain,Urea,Soybean,140.0,October,NA,Onion
+446.0,45.6,29.3,76.5,74.5,76.0,NA,Black,Maharashtra,Nashik,Rabi,Canal,River,ONI1103 Bhima Super,Plain,NPK,NA,110.0,November,March,Onion
+420.0,48.1,18.1,79.2,37.8,94.8,6.38,Alluvial,Madhya Pradesh,Indore,Rabi,Canal,Groundwater,ONI1101 Nashik Red,Plain,NPK,Maize,119.0,October,April,Onion
+NA,51.8,NA,89.0,62.1,59.5,6.95,Loamy,Maharashtra,Ahmednagar,Rabi,Sprinkler,River,ONI1103 Bhima Super,Plain,NPK,Maize,NA,October,April,Onion
+528.0,49.2,18.8,88.3,41.3,53.7,7.32,Alluvial,Andhra Pradesh,Guntur,NA,Drip,Groundwater,ONI1104 Arka Kalyan,Plain,Urea,Cotton,128.0,November,March,Onion
+767.0,73.8,20.7,75.9,70.9,62.5,6.9,Black,Karnataka,Dharwad,Rabi,Canal,River,ONI1103 Bhima Super,Plain,Urea,Fallow,115.0,November,March,Onion
+798.0,64.5,19.4,102.9,63.1,84.6,7.06,Black,Andhra Pradesh,Kurnool,Rabi,Canal,Groundwater,ONI1102 Pusa Red,Plain,Urea,Cotton,133.0,November,March,Onion
+508.0,64.5,30.8,117.9,NA,93.9,5.82,Red,Andhra Pradesh,NA,Rabi,Drip,Canal,ONI1104 Arka Kalyan,Plain,NPK,Cotton,116.0,October,April,Onion
+NA,60.7,30.6,72.1,47.8,74.8,7.01,Alluvial,Andhra Pradesh,Guntur,Rabi,Drip,River,ONI1104 Arka Kalyan,Plain,Urea,Maize,123.0,October,March,Onion
+843.0,66.4,20.3,72.0,40.6,75.4,6.16,Red,Andhra Pradesh,Guntur,Rabi,Drip,River,ONI1104 Arka Kalyan,Plain,Mixed,Fallow,115.0,November,March,Onion
+621.0,45.6,19.0,100.6,NA,79.7,5.94,Alluvial,Madhya Pradesh,Indore,Rabi,Drip,Groundwater,ONI1104 Arka Kalyan,Plain,Urea,Fallow,149.0,November,April,Onion
+410.0,60.8,25.2,84.4,40.0,74.3,7.33,Loamy,Gujarat,Bhavnagar,Rabi,Canal,River,ONI1103 Bhima Super,Plain,Mixed,Fallow,127.0,November,March,Onion
+873.0,75.7,23.3,NA,41.9,48.0,6.01,Alluvial,Gujarat,Rajkot,Rabi,Sprinkler,Groundwater,ONI1102 Pusa Red,Plain,NPK,Maize,128.0,October,April,Onion
+832.0,60.3,28.4,107.2,67.1,66.6,7.37,Loamy,Karnataka,Dharwad,Rabi,Canal,Groundwater,ONI1102 Pusa Red,Plain,NPK,Soybean,135.0,October,April,Onion
+490.0,60.4,31.6,115.2,67.4,46.6,6.74,Red,NA,Dharwad,Rabi,Drip,Canal,ONI1104 Arka Kalyan,Plain,Mixed,Cotton,118.0,November,April,Onion
+817.0,56.5,NA,98.2,56.1,NA,7.49,Red,Maharashtra,Ahmednagar,NA,Sprinkler,Groundwater,ONI1101 Nashik Red,Plain,NA,Cotton,147.0,NA,April,Onion
+624.0,47.1,24.7,111.4,59.3,71.9,6.74,Black,Maharashtra,Ahmednagar,Rabi,Sprinkler,River,ONI1103 Bhima Super,Plain,Mixed,Fallow,117.0,October,April,Onion
+514.0,32.1,35.6,52.5,40.1,41.1,6.5,Loamy,Tamil Nadu,Tiruchirappalli,NA,Borewell,Groundwater,MIL1203 Pusa-383,NA,NPK,Groundnut,93.0,June,October,Millet
+279.0,48.5,29.0,41.0,44.2,31.0,6.56,Black,Gujarat,Banaskantha,Kharif,Rainfed,Rainwater,MIL1202 ICTP-8203,Plain,Organic,Chickpea,NA,July,September,Millet
+280.0,30.1,31.3,43.8,49.9,43.2,7.63,Red,Tamil Nadu,Tiruchirappalli,Kharif,Borewell,Groundwater,MIL1204 Kaveri Super,NA,Organic,NA,83.0,June,October,Millet
+NA,37.3,24.2,35.2,29.3,NA,8.17,Loamy,Tamil Nadu,NA,Kharif,Rainfed,Rainwater,MIL1203 Pusa-383,Plain,Organic,Chickpea,82.0,June,October,Millet
+336.0,40.7,34.2,56.8,22.2,NA,5.93,Loamy,Karnataka,Chitradurga,Kharif,Rainfed,Groundwater,MIL1201 HHB-67,Plain,NPK,Chickpea,88.0,July,October,Millet
+375.0,58.7,32.9,59.2,47.5,47.4,7.57,Red,Rajasthan,Bikaner,Kharif,Borewell,Groundwater,NA,Plain,Urea,Fallow,87.0,June,October,Millet
+612.0,61.9,27.5,47.5,35.6,28.8,5.84,Sandy,Rajasthan,Bikaner,Kharif,Sprinkler,Groundwater,MIL1204 Kaveri Super,Plain,Urea,Groundnut,82.0,June,September,Millet
+543.0,50.9,37.4,30.1,27.4,47.8,8.04,Sandy,Haryana,NA,Kharif,Borewell,Groundwater,MIL1201 HHB-67,Upland,Urea,Chickpea,88.0,NA,October,Millet
+610.0,NA,37.2,64.7,28.6,30.0,6.82,Sandy,Karnataka,Chitradurga,NA,Borewell,Rainwater,MIL1201 HHB-67,Upland,Organic,Fallow,96.0,July,October,Millet
+580.0,30.0,32.3,66.6,28.6,25.6,7.36,Loamy,NA,Tiruchirappalli,Kharif,Borewell,Groundwater,MIL1203 Pusa-383,Upland,Urea,Chickpea,95.0,July,September,Millet
+631.0,44.5,29.9,36.3,NA,36.1,5.85,Sandy,Karnataka,Ballari,Kharif,Borewell,Groundwater,MIL1201 HHB-67,Upland,Urea,Groundnut,NA,June,September,Millet
+501.0,55.2,31.6,43.0,24.1,46.6,6.93,Loamy,Tamil Nadu,Tiruchirappalli,Kharif,Rainfed,Groundwater,MIL1204 Kaveri Super,Upland,NPK,Mustard,NA,June,October,Millet
+617.0,55.7,35.8,34.6,49.1,48.8,6.66,Sandy,Karnataka,Chitradurga,Kharif,Rainfed,Rainwater,MIL1202 ICTP-8203,Plain,Organic,Mustard,78.0,June,September,Millet
+327.0,58.7,33.2,65.3,34.6,36.3,8.01,Sandy,Tamil Nadu,Tiruchirappalli,Kharif,Rainfed,Rainwater,MIL1203 Pusa-383,Upland,Urea,Mustard,78.0,June,October,Millet
+281.0,51.7,26.4,43.8,21.8,28.1,7.64,Sandy,Gujarat,Kutch,Kharif,Borewell,Rainwater,MIL1201 HHB-67,Upland,Organic,Fallow,76.0,June,September,Millet
+552.0,57.1,24.1,46.1,47.2,42.2,7.1,Sandy,Tamil Nadu,Tiruchirappalli,Kharif,Rainfed,Rainwater,MIL1201 HHB-67,Plain,Urea,Fallow,89.0,July,September,Millet
+620.0,58.1,30.8,55.2,22.4,34.6,6.17,Sandy,Haryana,Bhiwani,Kharif,Borewell,NA,MIL1201 HHB-67,Upland,Urea,Mustard,100.0,June,October,Millet
+294.0,30.5,26.3,69.8,25.4,35.1,7.84,Loamy,Karnataka,Chitradurga,Kharif,Sprinkler,Groundwater,MIL1201 HHB-67,Upland,NPK,Fallow,82.0,June,NA,Millet
+653.0,47.4,37.7,62.4,36.7,48.4,7.01,Black,Haryana,Hisar,Kharif,Borewell,Groundwater,MIL1203 Pusa-383,Plain,Urea,Groundnut,79.0,July,September,Millet
+473.0,NA,37.0,53.5,32.2,39.5,7.64,Red,Rajasthan,Jodhpur,Kharif,NA,Groundwater,MIL1202 ICTP-8203,Upland,Urea,Groundnut,94.0,June,October,Millet
+468.0,61.2,24.1,66.0,NA,48.8,5.83,Sandy,Haryana,NA,Kharif,Borewell,Rainwater,MIL1203 Pusa-383,Plain,NPK,Fallow,100.0,July,NA,Millet
+346.0,31.9,28.6,35.7,41.3,36.0,6.15,Loamy,Karnataka,NA,Kharif,Rainfed,NA,MIL1203 Pusa-383,Upland,Organic,Chickpea,96.0,July,October,Millet
+542.0,39.9,32.5,51.0,20.7,43.7,5.83,Loamy,NA,Kutch,Kharif,Sprinkler,NA,MIL1201 HHB-67,Plain,Organic,Fallow,86.0,July,October,Millet
+457.0,41.2,32.8,NA,39.4,42.4,7.97,NA,Karnataka,Ballari,Kharif,NA,Groundwater,MIL1202 ICTP-8203,Upland,Urea,Mustard,86.0,July,October,Millet
+442.0,58.5,NA,51.0,40.7,46.5,6.99,NA,Haryana,Hisar,Kharif,NA,Groundwater,MIL1203 Pusa-383,Plain,Urea,Mustard,NA,July,October,Millet
+550.0,36.8,33.2,NA,24.6,44.2,7.02,Loamy,Gujarat,Banaskantha,NA,Rainfed,Rainwater,MIL1202 ICTP-8203,Plain,NPK,Chickpea,85.0,July,September,Millet
+520.0,43.4,30.0,32.2,35.5,35.1,6.16,Black,Tamil Nadu,Tiruchirappalli,Kharif,Rainfed,Rainwater,MIL1201 HHB-67,Upland,Organic,Mustard,86.0,June,October,Millet
+NA,41.6,NA,45.4,42.2,NA,7.57,Red,Rajasthan,Bikaner,Kharif,Rainfed,NA,MIL1204 Kaveri Super,Upland,Urea,Groundnut,100.0,June,October,Millet
+262.0,38.4,31.5,66.3,45.4,34.7,NA,Loamy,Tamil Nadu,Tiruchirappalli,Kharif,Borewell,Groundwater,MIL1201 HHB-67,Plain,NPK,Chickpea,83.0,July,October,Millet
+NA,57.5,28.3,NA,37.0,34.2,6.99,Black,Karnataka,Ballari,Kharif,Borewell,Rainwater,MIL1203 Pusa-383,Plain,NPK,Chickpea,90.0,June,October,Millet
+410.0,40.4,24.3,50.0,34.5,24.7,7.63,Loamy,Haryana,Hisar,Kharif,Sprinkler,Groundwater,MIL1203 Pusa-383,Plain,NPK,Mustard,82.0,July,October,Millet
+268.0,33.9,26.8,46.1,45.4,30.4,7.37,Loamy,Tamil Nadu,Tiruchirappalli,Kharif,Rainfed,Rainwater,MIL1204 Kaveri Super,NA,Organic,Fallow,98.0,July,NA,Millet
+543.0,40.5,29.5,40.5,30.3,32.3,7.53,Red,Haryana,Hisar,Kharif,Sprinkler,Rainwater,MIL1201 HHB-67,Upland,Organic,Chickpea,95.0,NA,NA,Millet
+409.0,39.6,31.8,30.3,22.5,23.8,6.24,Red,Tamil Nadu,Tiruchirappalli,Kharif,Sprinkler,Groundwater,MIL1201 HHB-67,Plain,Urea,Mustard,79.0,June,October,Millet
+315.0,59.4,30.2,69.8,32.6,38.2,6.05,Red,Tamil Nadu,Tiruchirappalli,Kharif,Borewell,Rainwater,MIL1202 ICTP-8203,NA,NPK,Mustard,88.0,June,October,Millet
+340.0,44.5,33.7,55.5,41.5,26.7,6.04,Black,Tamil Nadu,Tiruchirappalli,Kharif,Borewell,Groundwater,MIL1203 Pusa-383,Upland,Organic,Fallow,84.0,NA,September,Millet
+513.0,44.2,24.5,42.8,44.3,40.7,7.54,Loamy,Tamil Nadu,Madurai,Kharif,Rainfed,Rainwater,MIL1204 Kaveri Super,Plain,NPK,Mustard,98.0,July,October,Millet
+476.0,31.7,37.2,51.1,29.8,NA,6.61,Loamy,Karnataka,Ballari,Kharif,Sprinkler,Rainwater,NA,Upland,NPK,Mustard,82.0,July,September,Millet
+580.0,54.9,NA,38.6,22.5,34.5,7.03,Loamy,Haryana,Hisar,Kharif,Rainfed,Rainwater,MIL1203 Pusa-383,Plain,Urea,Fallow,79.0,June,October,Millet
+NA,30.2,32.3,63.9,30.7,23.2,6.81,Black,Rajasthan,Bikaner,Kharif,Sprinkler,Groundwater,MIL1203 Pusa-383,Plain,NPK,Mustard,94.0,July,October,Millet
+425.0,40.0,30.5,NA,45.9,47.9,6.53,Black,NA,Madurai,Kharif,Borewell,Groundwater,MIL1201 HHB-67,Upland,Urea,Groundnut,100.0,July,September,Millet
+252.0,48.1,28.7,42.9,39.3,45.5,7.26,Black,Tamil Nadu,Tiruchirappalli,Kharif,Sprinkler,Groundwater,MIL1203 Pusa-383,NA,Organic,Chickpea,85.0,July,September,Millet
+NA,48.9,34.3,52.9,22.0,23.5,7.23,Sandy,Rajasthan,Jodhpur,NA,Sprinkler,Groundwater,MIL1201 HHB-67,Plain,Urea,Chickpea,86.0,July,October,Millet
+418.0,38.4,34.6,60.9,33.7,38.4,6.7,Black,Tamil Nadu,Tiruchirappalli,Kharif,Sprinkler,Rainwater,MIL1204 Kaveri Super,Plain,NPK,Chickpea,91.0,June,September,Millet
+556.0,47.9,32.7,33.9,48.6,43.7,6.7,Loamy,Tamil Nadu,Tiruchirappalli,NA,Sprinkler,Groundwater,NA,Plain,Organic,Groundnut,91.0,June,September,Millet
+403.0,39.6,32.1,49.9,37.4,28.6,6.68,Sandy,Haryana,Hisar,Kharif,Borewell,Rainwater,MIL1201 HHB-67,Upland,NPK,Fallow,80.0,June,October,Millet
+267.0,51.1,27.8,NA,34.5,29.2,7.04,Sandy,Rajasthan,Bikaner,Kharif,Sprinkler,Groundwater,MIL1204 Kaveri Super,Plain,NPK,Fallow,90.0,June,September,Millet
+570.0,41.6,35.7,48.2,41.6,23.2,7.83,Sandy,Haryana,NA,Kharif,Sprinkler,NA,MIL1204 Kaveri Super,Plain,Urea,Mustard,92.0,July,October,Millet
+264.0,42.7,32.0,68.1,35.5,44.6,7.11,Red,Karnataka,Ballari,NA,Sprinkler,Groundwater,MIL1204 Kaveri Super,Upland,NA,Chickpea,95.0,July,October,Millet
+675.0,56.0,34.4,59.5,25.3,44.7,6.46,Loamy,Gujarat,Banaskantha,Kharif,Borewell,Rainwater,MIL1201 HHB-67,Upland,NPK,NA,79.0,June,October,Millet
+1820.0,81.6,29.2,124.5,96.7,204.7,7.29,Alluvial,Gujarat,Navsari,Perennial,Canal,River,BAN1301 Grand Naine,Plain,Mixed,Sugarcane,334.0,June,May,Banana
+1148.0,78.4,28.3,127.1,74.4,204.3,6.83,Alluvial,Andhra Pradesh,Kurnool,Perennial,Drip,River,BAN1304 Red Banana,Plain,NA,Sugarcane,397.0,July,June,Banana
+1257.0,81.5,25.4,149.1,57.2,217.3,6.25,Alluvial,Maharashtra,NA,Perennial,Borewell,Canal,BAN1301 Grand Naine,Plain,Mixed,Fallow,396.0,July,May,Banana
+1519.0,72.1,30.4,175.1,NA,167.7,6.66,Black,Gujarat,Navsari,Perennial,Drip,Reservoir,BAN1301 Grand Naine,Plain,Organic,Rice,340.0,July,June,Banana
+1681.0,88.5,26.4,194.6,76.0,152.2,7.35,Alluvial,Gujarat,Navsari,Perennial,Borewell,Canal,BAN1303 Poovan,Plain,Organic,Vegetables,358.0,June,June,Banana
+1118.0,88.8,NA,193.4,70.6,162.6,6.61,Alluvial,Maharashtra,Nashik,Perennial,Canal,NA,NA,Plain,NPK,Sugarcane,363.0,July,June,Banana
+1086.0,63.8,33.3,180.5,83.0,168.2,7.62,Loamy,Kerala,Kottayam,Perennial,Canal,River,BAN1302 Robusta,Plain,NPK,Vegetables,371.0,June,May,Banana
+1198.0,68.6,26.7,205.5,51.6,129.1,6.35,Black,Gujarat,NA,Perennial,Drip,Canal,BAN1303 Poovan,Plain,Mixed,Vegetables,337.0,NA,NA,Banana
+1111.0,65.0,25.8,187.2,73.0,239.0,6.25,Alluvial,Gujarat,Surat,Perennial,Drip,Groundwater,BAN1301 Grand Naine,Plain,Mixed,Vegetables,392.0,July,June,Banana
+1821.0,62.8,31.4,216.0,NA,188.5,7.69,Black,Maharashtra,Jalgaon,Perennial,NA,Reservoir,BAN1304 Red Banana,Plain,Organic,Fallow,396.0,July,June,Banana
+1541.0,87.3,33.4,126.4,70.1,122.8,NA,Red,Gujarat,Surat,Perennial,Borewell,NA,BAN1302 Robusta,Plain,NA,Rice,373.0,July,June,Banana
+1485.0,NA,33.0,NA,70.1,226.8,6.57,Alluvial,Gujarat,Navsari,Perennial,Drip,Canal,BAN1303 Poovan,Plain,Mixed,Vegetables,357.0,June,June,Banana
+1777.0,64.6,NA,153.9,56.3,169.7,5.83,Loamy,Gujarat,Navsari,NA,Borewell,River,BAN1302 Robusta,Plain,NPK,NA,347.0,NA,June,Banana
+1195.0,NA,32.3,160.2,85.8,225.2,6.23,Loamy,Andhra Pradesh,Kurnool,Perennial,NA,Canal,BAN1304 Red Banana,Plain,Organic,Fallow,356.0,June,June,Banana
+1749.0,73.0,NA,137.9,88.3,214.4,6.93,Alluvial,Maharashtra,NA,Perennial,Canal,Canal,BAN1302 Robusta,Plain,Organic,Vegetables,398.0,June,May,Banana
+1270.0,68.7,29.4,122.4,54.0,170.2,7.69,Red,Andhra Pradesh,Kurnool,Perennial,Canal,Groundwater,BAN1304 Red Banana,Plain,Organic,NA,365.0,June,June,Banana
+1414.0,78.8,32.0,216.9,NA,188.8,NA,Loamy,Maharashtra,Nashik,Perennial,Drip,Groundwater,BAN1301 Grand Naine,NA,Organic,Sugarcane,396.0,July,June,Banana
+1192.0,74.9,32.5,170.5,87.4,136.7,6.3,Red,Maharashtra,Jalgaon,Perennial,Canal,Groundwater,NA,Plain,Mixed,Vegetables,366.0,July,June,Banana
+1305.0,76.7,25.0,200.5,68.5,197.8,7.25,Loamy,Gujarat,Surat,Perennial,Borewell,Canal,BAN1304 Red Banana,NA,Organic,Rice,332.0,June,June,Banana
+1731.0,66.2,27.4,201.0,84.8,211.9,6.68,Alluvial,Kerala,Kottayam,Perennial,Drip,Groundwater,BAN1301 Grand Naine,Plain,NPK,Vegetables,389.0,June,June,Banana
+1407.0,NA,29.4,204.3,88.1,127.0,7.8,Red,Tamil Nadu,NA,Perennial,Drip,Groundwater,BAN1301 Grand Naine,Plain,Organic,Vegetables,NA,July,May,Banana
+NA,66.0,24.8,198.8,91.8,139.5,7.51,Alluvial,Tamil Nadu,Coimbatore,NA,Canal,River,BAN1303 Poovan,Plain,Mixed,Rice,367.0,June,June,Banana
+1456.0,75.9,32.1,199.1,79.1,213.7,6.18,Black,Maharashtra,Nashik,Perennial,Drip,Reservoir,BAN1304 Red Banana,Plain,Mixed,Sugarcane,341.0,June,May,Banana
+962.0,NA,25.8,218.6,85.8,193.8,5.89,Black,Gujarat,Navsari,Perennial,Borewell,Groundwater,NA,Plain,Organic,NA,382.0,July,May,Banana
+1597.0,68.6,31.6,174.0,NA,183.2,6.59,Black,Kerala,Thrissur,Perennial,Borewell,River,BAN1304 Red Banana,Plain,Mixed,Rice,360.0,July,May,Banana
+960.0,77.9,24.9,190.2,52.6,NA,NA,Red,Kerala,Thrissur,Perennial,Drip,Groundwater,BAN1303 Poovan,Plain,Organic,Vegetables,NA,June,May,Banana
+1504.0,77.5,28.0,214.9,88.9,154.2,7.49,Loamy,Andhra Pradesh,Kurnool,Perennial,Canal,Groundwater,BAN1302 Robusta,Plain,Mixed,Fallow,386.0,June,May,Banana
+1226.0,81.8,26.3,120.1,85.8,140.5,6.01,Loamy,Kerala,Kottayam,Perennial,Borewell,NA,BAN1304 Red Banana,Plain,NPK,NA,373.0,June,June,Banana
+1256.0,69.6,28.5,182.6,57.3,142.7,7.52,Red,Tamil Nadu,Coimbatore,Perennial,NA,Groundwater,BAN1303 Poovan,Plain,NPK,Fallow,362.0,June,June,Banana
+922.0,82.1,28.9,201.3,97.7,231.1,7.62,Alluvial,Tamil Nadu,Coimbatore,Perennial,Drip,River,BAN1304 Red Banana,Plain,Organic,Rice,377.0,July,May,Banana
+1553.0,NA,28.0,127.8,68.7,NA,7.14,Red,Maharashtra,Nashik,Perennial,Canal,Groundwater,NA,Plain,Mixed,Sugarcane,400.0,July,June,Banana
+1601.0,NA,31.1,136.9,91.6,188.6,NA,NA,Andhra Pradesh,Kurnool,Perennial,Canal,River,BAN1303 Poovan,Plain,NA,Rice,369.0,June,May,Banana
+1513.0,87.9,27.8,166.4,54.4,193.1,6.38,Alluvial,Tamil Nadu,Coimbatore,Perennial,Borewell,River,BAN1301 Grand Naine,Plain,Mixed,Sugarcane,390.0,June,June,Banana
+1692.0,75.9,28.0,152.2,80.5,NA,NA,Alluvial,Tamil Nadu,NA,Perennial,Canal,Reservoir,BAN1301 Grand Naine,Plain,Organic,NA,386.0,NA,June,Banana
+NA,66.8,26.3,NA,80.2,200.5,7.01,Red,Tamil Nadu,Coimbatore,Perennial,Borewell,Groundwater,BAN1303 Poovan,Plain,Mixed,Fallow,373.0,July,June,Banana
+1333.0,72.5,28.5,202.7,54.9,NA,6.48,Loamy,Maharashtra,Jalgaon,Perennial,Canal,Canal,BAN1302 Robusta,Plain,NPK,Rice,371.0,July,June,Banana
+1765.0,86.5,32.4,178.2,62.4,NA,7.22,Loamy,Tamil Nadu,Tiruchirappalli,NA,Drip,Canal,BAN1302 Robusta,NA,NPK,Fallow,344.0,July,May,Banana
+968.0,61.5,27.8,153.7,85.9,209.1,5.9,Loamy,Gujarat,Surat,Perennial,Canal,Groundwater,BAN1304 Red Banana,Plain,Organic,Fallow,NA,June,May,Banana
+NA,62.1,29.1,165.5,88.4,199.2,6.69,Loamy,Andhra Pradesh,Kurnool,Perennial,Canal,Groundwater,BAN1302 Robusta,Plain,NPK,Fallow,359.0,July,May,Banana
+1106.0,87.3,29.2,198.8,61.4,178.8,6.52,Black,Tamil Nadu,NA,Perennial,Canal,Reservoir,BAN1303 Poovan,Plain,Organic,Fallow,337.0,June,May,Banana
+NA,89.2,32.5,190.6,64.5,139.8,7.64,Red,Andhra Pradesh,Kurnool,Perennial,Drip,Canal,BAN1303 Poovan,Plain,Mixed,NA,NA,June,May,Banana
+1555.0,86.2,24.5,158.5,57.9,NA,6.01,Black,Gujarat,Surat,Perennial,Drip,River,BAN1302 Robusta,Plain,Mixed,Rice,332.0,July,May,Banana
+1783.0,83.8,25.9,186.8,54.7,180.9,6.12,Black,Tamil Nadu,Tiruchirappalli,Perennial,Borewell,Groundwater,BAN1301 Grand Naine,Plain,Mixed,Rice,382.0,June,May,Banana
+1950.0,NA,31.0,212.2,68.7,228.3,7.63,Black,Kerala,Kottayam,Perennial,Canal,Canal,BAN1301 Grand Naine,Plain,NPK,Sugarcane,365.0,June,May,Banana
+1236.0,82.3,24.5,141.9,85.3,213.9,6.71,Alluvial,Kerala,Kottayam,Perennial,Borewell,Groundwater,BAN1303 Poovan,Plain,Organic,Sugarcane,350.0,July,June,Banana
+1465.0,77.6,28.8,152.6,86.1,129.0,NA,Red,Tamil Nadu,Tiruchirappalli,NA,Drip,River,BAN1302 Robusta,Plain,Organic,Sugarcane,376.0,June,May,Banana
+1964.0,73.2,NA,204.7,71.3,186.2,6.26,Red,Tamil Nadu,NA,Perennial,Borewell,River,BAN1301 Grand Naine,Plain,Mixed,Rice,336.0,June,June,Banana
+NA,70.4,25.7,120.3,72.5,162.3,NA,Loamy,Maharashtra,Nashik,Perennial,Canal,Groundwater,BAN1301 Grand Naine,Plain,Organic,Vegetables,387.0,June,June,Banana
+1137.0,68.2,25.7,191.8,88.5,175.5,7.23,Alluvial,Andhra Pradesh,Kurnool,Perennial,Canal,Groundwater,BAN1302 Robusta,Plain,NA,Sugarcane,335.0,NA,June,Banana
+1195.0,85.3,27.1,203.9,71.4,207.2,6.82,Alluvial,Maharashtra,Nashik,Perennial,Borewell,River,BAN1302 Robusta,Plain,Mixed,Vegetables,367.0,July,June,Banana
+1147.0,54.3,31.6,135.5,52.3,72.5,7.65,Alluvial,Karnataka,Kolar,Perennial,Borewell,Reservoir,MAN1402 Alphonso,Hilly,Organic,Pulses,365.0,July,June,Mango
+794.0,79.7,24.8,120.3,77.0,80.3,7.73,Alluvial,Karnataka,Kolar,Perennial,Canal,River,MAN1403 Banganapalli,Hilly,Mixed,Pulses,365.0,August,April,Mango
+744.0,71.8,26.7,92.3,56.9,125.6,6.57,Loamy,Karnataka,Kolar,Perennial,Borewell,Canal,MAN1404 Langra,Plain,Mixed,Pulses,NA,July,NA,Mango
+1157.0,NA,29.6,133.8,43.6,84.8,6.65,Alluvial,Karnataka,Kolar,Perennial,Drip,NA,MAN1404 Langra,Plain,Organic,NA,365.0,July,April,Mango
+1295.0,77.7,26.6,89.5,49.5,124.3,7.73,Laterite,Karnataka,Ramanagara,Perennial,Borewell,Groundwater,MAN1404 Langra,Plain,Organic,Groundnut,365.0,July,April,Mango
+1389.0,63.7,23.6,138.0,50.1,124.4,7.7,Red,Maharashtra,Ratnagiri,Perennial,Canal,Reservoir,MAN1401 Dashehari,Hilly,Organic,Pulses,365.0,August,June,Mango
+1290.0,61.6,35.9,148.6,75.3,NA,6.42,Alluvial,Bihar,Muzaffarpur,Perennial,Borewell,Reservoir,MAN1403 Banganapalli,Hilly,NPK,Fallow,365.0,August,June,Mango
+612.0,76.2,25.4,131.1,72.4,130.1,7.78,Loamy,Bihar,NA,Perennial,Borewell,Groundwater,MAN1403 Banganapalli,Plain,NPK,Fallow,365.0,July,June,Mango
+1003.0,67.6,35.6,83.9,NA,130.4,NA,Laterite,Andhra Pradesh,Krishna,Perennial,Borewell,Reservoir,MAN1403 Banganapalli,Plain,Mixed,Vegetables,365.0,July,April,Mango
+NA,68.3,35.7,131.0,65.7,93.5,5.58,Alluvial,Uttar Pradesh,Lucknow,Perennial,Canal,Reservoir,MAN1402 Alphonso,Upland,NPK,NA,365.0,August,June,Mango
+671.0,NA,27.2,130.4,62.2,99.6,NA,Red,Maharashtra,Nashik,Perennial,Borewell,Groundwater,MAN1404 Langra,NA,NPK,Vegetables,365.0,July,June,Mango
+667.0,73.4,32.1,131.1,NA,120.2,7.06,Loamy,Bihar,Muzaffarpur,Perennial,Drip,Groundwater,MAN1401 Dashehari,Plain,Mixed,Vegetables,365.0,July,June,Mango
+1334.0,NA,33.8,80.0,46.7,72.1,6.25,Alluvial,Bihar,Muzaffarpur,NA,Borewell,Reservoir,MAN1403 Banganapalli,Upland,NPK,Vegetables,365.0,August,June,Mango
+NA,76.8,26.3,118.0,40.8,106.5,NA,Red,Karnataka,Kolar,Perennial,NA,Reservoir,MAN1404 Langra,Upland,Mixed,Fallow,365.0,July,June,Mango
+1054.0,79.4,34.6,146.7,55.4,125.1,6.93,Loamy,Karnataka,Ramanagara,Perennial,Canal,Reservoir,MAN1401 Dashehari,Upland,NA,Pulses,365.0,July,June,Mango
+831.0,53.9,26.6,98.9,60.5,100.8,6.68,NA,Karnataka,Kolar,Perennial,NA,Canal,MAN1402 Alphonso,Upland,Mixed,Vegetables,365.0,August,April,Mango
+787.0,65.6,30.0,113.9,62.0,104.4,6.8,Alluvial,Bihar,Bhagalpur,Perennial,Borewell,Canal,MAN1402 Alphonso,Plain,Organic,Fallow,365.0,August,April,Mango
+1265.0,77.6,32.5,139.0,58.8,97.3,6.4,Red,Maharashtra,Ratnagiri,Perennial,Canal,Canal,MAN1404 Langra,Hilly,Organic,Groundnut,365.0,July,April,Mango
+983.0,68.6,26.5,85.6,63.3,136.4,NA,NA,Andhra Pradesh,Chittoor,Perennial,Drip,Groundwater,MAN1402 Alphonso,Plain,Organic,NA,365.0,July,April,Mango
+741.0,66.3,28.7,140.6,41.3,115.1,7.25,Loamy,Karnataka,Ramanagara,NA,Drip,Canal,MAN1402 Alphonso,NA,Organic,Groundnut,365.0,August,April,Mango
+606.0,53.4,23.4,98.2,47.1,72.0,7.59,Loamy,Andhra Pradesh,NA,Perennial,Canal,River,MAN1403 Banganapalli,NA,NPK,Fallow,365.0,NA,June,Mango
+1138.0,45.2,35.8,141.4,75.8,NA,6.29,Red,Andhra Pradesh,Krishna,NA,Drip,Groundwater,MAN1404 Langra,Upland,NPK,Pulses,365.0,August,April,Mango
+NA,55.5,30.7,112.9,44.7,95.7,5.56,Red,Uttar Pradesh,Saharanpur,Perennial,Drip,Reservoir,MAN1401 Dashehari,Hilly,NPK,Groundnut,365.0,July,June,Mango
+873.0,51.6,33.5,144.0,61.5,120.9,5.78,Laterite,Karnataka,Ramanagara,Perennial,Canal,Canal,NA,Plain,Organic,Pulses,365.0,NA,June,Mango
+1315.0,77.8,33.3,124.5,52.1,138.8,6.13,Loamy,NA,Ratnagiri,Perennial,Borewell,Canal,NA,Hilly,Mixed,Fallow,365.0,August,June,Mango
+1125.0,62.4,22.4,122.9,68.6,99.2,7.24,Alluvial,Uttar Pradesh,NA,Perennial,Canal,Reservoir,MAN1404 Langra,Plain,Mixed,Vegetables,365.0,August,April,Mango
+1177.0,53.4,24.4,148.0,64.7,138.7,6.28,Laterite,Maharashtra,Ratnagiri,Perennial,Borewell,Canal,MAN1404 Langra,Hilly,NPK,Groundnut,365.0,July,June,Mango
+810.0,46.3,31.9,114.4,NA,82.0,5.74,Laterite,Uttar Pradesh,Saharanpur,Perennial,Canal,NA,MAN1401 Dashehari,Hilly,Organic,Fallow,365.0,August,April,Mango
+1289.0,50.1,33.7,81.1,65.8,100.4,5.96,Loamy,Andhra Pradesh,Krishna,Perennial,Drip,Canal,MAN1404 Langra,Plain,NPK,Vegetables,365.0,August,NA,Mango
+975.0,77.4,27.6,123.7,71.2,124.9,6.69,NA,Maharashtra,Ratnagiri,Perennial,Drip,River,MAN1403 Banganapalli,Hilly,NPK,Vegetables,365.0,August,June,Mango
+806.0,57.8,28.1,89.2,58.2,126.7,7.4,Red,Karnataka,Kolar,Perennial,Borewell,Canal,MAN1404 Langra,Hilly,NPK,Pulses,365.0,July,April,Mango
+1299.0,61.2,22.3,95.9,59.0,99.7,7.48,Red,Maharashtra,Nashik,Perennial,NA,Canal,MAN1402 Alphonso,Hilly,Organic,Pulses,365.0,August,April,Mango
+800.0,76.2,26.7,NA,43.9,70.9,6.47,Alluvial,Maharashtra,Nashik,Perennial,Borewell,Groundwater,MAN1404 Langra,Plain,Organic,Pulses,365.0,August,June,Mango
+1195.0,79.5,31.3,97.1,NA,111.9,5.99,Red,NA,Bhagalpur,Perennial,Borewell,Reservoir,MAN1401 Dashehari,Plain,Mixed,Pulses,365.0,July,April,Mango
+1004.0,74.8,31.5,142.8,75.6,138.4,7.11,Alluvial,Bihar,Bhagalpur,Perennial,Drip,Reservoir,MAN1401 Dashehari,Plain,Organic,Groundnut,365.0,July,June,Mango
+1372.0,54.1,22.3,118.2,68.3,125.3,5.95,Loamy,Andhra Pradesh,Krishna,Perennial,Drip,Groundwater,MAN1404 Langra,Hilly,Mixed,Groundnut,365.0,July,June,Mango
+667.0,NA,27.9,81.2,54.6,89.2,6.66,Red,Karnataka,Kolar,Perennial,Canal,River,MAN1401 Dashehari,Hilly,NPK,Pulses,365.0,August,April,Mango
+1271.0,77.6,26.5,144.8,71.7,134.6,7.03,Red,NA,Krishna,Perennial,Borewell,River,MAN1402 Alphonso,Hilly,Mixed,Groundnut,365.0,July,June,Mango
+1012.0,70.0,35.0,86.2,78.2,134.5,5.62,Loamy,Bihar,Bhagalpur,Perennial,Borewell,NA,MAN1404 Langra,Hilly,Organic,Groundnut,365.0,July,June,Mango
+NA,61.8,30.7,138.1,54.4,100.1,6.44,Red,Bihar,Bhagalpur,Perennial,Canal,Groundwater,MAN1402 Alphonso,Plain,NPK,NA,365.0,July,June,Mango
+679.0,66.7,24.0,116.6,40.3,92.2,7.06,Laterite,Bihar,Muzaffarpur,Perennial,Drip,Canal,MAN1403 Banganapalli,Plain,Organic,Vegetables,365.0,July,April,Mango
+823.0,57.9,23.1,129.9,40.1,73.3,5.51,Alluvial,Andhra Pradesh,Chittoor,Perennial,Borewell,Reservoir,MAN1404 Langra,Upland,NA,Fallow,365.0,July,June,Mango
+1167.0,63.6,NA,95.6,68.2,83.4,NA,Alluvial,Uttar Pradesh,Lucknow,NA,Borewell,River,MAN1404 Langra,Plain,Organic,Vegetables,365.0,August,April,Mango
+1250.0,55.5,29.7,NA,NA,94.8,6.27,Red,Maharashtra,Nashik,Perennial,Canal,Reservoir,MAN1403 Banganapalli,NA,Organic,Vegetables,365.0,NA,June,Mango
+1287.0,49.4,29.9,NA,68.2,133.4,6.5,Loamy,Karnataka,Kolar,Perennial,Borewell,River,MAN1404 Langra,Upland,Mixed,Vegetables,365.0,August,June,Mango
+828.0,71.8,28.6,102.2,64.9,115.7,7.27,Laterite,Uttar Pradesh,Lucknow,Perennial,Canal,River,MAN1402 Alphonso,Hilly,Mixed,Groundnut,365.0,August,April,Mango
+904.0,73.6,27.1,122.1,64.3,95.6,NA,Alluvial,Uttar Pradesh,Saharanpur,Perennial,Canal,Canal,NA,Hilly,NA,NA,365.0,July,NA,Mango
+NA,72.8,22.7,139.9,66.3,100.4,6.3,Red,Maharashtra,Ratnagiri,Perennial,Canal,Reservoir,NA,Plain,NPK,Fallow,365.0,August,June,Mango
+1033.0,67.6,29.6,83.6,69.8,105.4,NA,Loamy,Bihar,Bhagalpur,Perennial,Drip,River,MAN1404 Langra,Plain,Mixed,Groundnut,365.0,July,June,Mango
+1254.0,64.9,22.6,92.4,74.6,109.4,NA,Alluvial,Andhra Pradesh,Krishna,Perennial,Drip,River,MAN1404 Langra,Upland,Mixed,Groundnut,NA,August,April,Mango

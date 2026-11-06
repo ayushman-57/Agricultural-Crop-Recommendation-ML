@@ -1,0 +1,7 @@
+"Feature","Chi_Square","P_Value","Cramers_V","Method","Adjusted_P_Value"
+"Soil_Type",608.373278198236,1e-04,0.364780785511216,"Chi-square with simulated p-value",1e-04
+"Season",1339.66226440765,1.11635670998968e-264,0.937573186787277,"Pearson Chi-square",6.69814025993806e-264
+"Irrigation_Type",511.24198389073,1.00367974330142e-74,0.409548909991757,"Pearson Chi-square",3.01103922990427e-74
+"Water_Source",483.126903719727,1e-04,0.398128373778841,"Chi-square with simulated p-value",1e-04
+"Land_Type",773.25974426036,1e-04,0.581600254261411,"Chi-square with simulated p-value",1e-04
+"State",1738.15472065479,1e-04,0.403647914161043,"Chi-square with simulated p-value",1e-04

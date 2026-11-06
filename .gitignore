@@ -1,0 +1,23 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
+
+# Example: RStudio files
+.Rproj.user/
+
+# Temporary files
+*.tmp
+*.log
+~*
+
+# Python cache (if any)
+__pycache__/
+*.py[cod]
+*$py.class

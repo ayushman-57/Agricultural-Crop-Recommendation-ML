@@ -1,0 +1,22 @@
+"Column","Data_Type","Missing_Before","Method","Values_Handled","Missing_After"
+"Rainfall","numeric",58,"Median Imputation",58,0
+"Humidity","numeric",49,"Median Imputation",49,0
+"Temperature","numeric",62,"Median Imputation",62,0
+"N","numeric",51,"Median Imputation",51,0
+"P","numeric",56,"Median Imputation",56,0
+"K","numeric",41,"Median Imputation",41,0
+"pH","numeric",56,"Median Imputation",56,0
+"Soil_Type","character",42,"Mode Imputation",42,0
+"State","character",58,"Mode Imputation",58,0
+"District","character",53,"Mode Imputation",53,0
+"Season","character",60,"Mode Imputation",60,0
+"Irrigation_Type","character",57,"Mode Imputation",57,0
+"Water_Source","character",56,"Mode Imputation",56,0
+"Variety","character",44,"Mode Imputation",44,0
+"Land_Type","character",43,"Mode Imputation",43,0
+"Fertilizer_Type","character",52,"Mode Imputation",52,0
+"Previous_Crop","character",62,"Mode Imputation",62,0
+"Crop_Duration","numeric",58,"Median Imputation",58,0
+"Sowing_Month","character",44,"Mode Imputation",44,0
+"Harvest_Month","character",48,"Mode Imputation",48,0
+"Crop_Name","character",0,"No cleaning required",0,0
